@@ -1,0 +1,4209 @@
+meta/llama-2-70b-chat_desc
+Benign essential hypertension
+Other and unspecified hyperlipidemia
+"Chronic obstructive asthma, unspecified"
+Esophageal reflux
+Coronary atherosclerosis of bypass graft (artery) (vein) of transplanted heart
+Generalized anxiety disorder
+Body mass index [BMI]
+"Anemia, unspecified"
+"Chest pain, unspecified"
+Screening for malignant neoplasms of cervix
+Unspecified disorder of thyroid
+"Pain in joint, multiple sites"
+Screening for iron deficiency anemia
+Screening for malignant neoplasms of bladder
+Supervision of normal first pregnancy
+"Hemoptysis, unspecified"
+"Body Mass Index between 30-39, adult"
+Supervision of normal first pregnancy
+Lumbago
+Unspecified hemorrhage of newborn
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"General psychiatric examination, other and unspecified"
+Personal history of malignant neoplasm of breast
+Asymptomatic human immunodeficiency virus [HIV] infection status
+Mitral valve disorders
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+Genital herpes
+Chondromalacia
+Benign essential hypertension
+Syncope and collapse
+Acute combined systolic and diastolic heart failure
+Personal history of malignant neoplasm of breast
+Supervision of high-risk pregnancy with elderly primigravida
+Functional quadriplegia
+Precordial pain
+Aphasia
+Obstructive sleep apnea (adult)(pediatric)
+Issue of medical certificates
+Screening for malignant neoplasms of cervix
+"Pain in joint, multiple sites"
+"Abdominal pain, right upper quadrant"
+Heart replaced by other means
+"Chronic kidney disease, Stage III (moderate)"
+Lumbago
+Displacement of thoracic or lumbar intervertebral disc without myelopathy
+Hemoptysis
+Profound intellectual disabilities
+Headache
+Coronary atherosclerosis of bypass graft (artery) (vein) of transplanted heart
+Necrotizing fasciitis
+Persistent disorder of initiating or maintaining sleep
+Central retinal artery occlusion
+Obstructive sleep apnea (adult)(pediatric)
+Routine general medical examination at a health care facility
+Supervision of normal first pregnancy
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Acute sinusitis, unspecified"
+Cervicalgia
+Cervicalgia
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition"
+Screening examination for diphtheria
+Other specified organ or tissue replaced by transplant
+Sideroblastic anemia
+Pathological gambling
+Unspecified viral hepatitis C with hepatic coma
+Postgastric surgery syndromes
+Other and unspecified extrapyramidal diseases and abnormal movement disorders
+"Pain in joint, site unspecified"
+"Chest pain, unspecified"
+Unspecified viral hepatitis C with hepatic coma
+Other and unspecified extrapyramidal diseases and abnormal movement disorders
+"Chest pain, unspecified"
+Unspecified disease of pharynx
+"Body Mass Index between 30-39, adult"
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Routine general medical examination at a health care facility
+Carpal tunnel syndrome
+Postprocedural fever
+Newborn health supervision
+Other and unspecified hyperlipidemia
+Rash and other nonspecific skin eruption
+Attention deficit disorder with hyperactivity
+Routine infant or child health check
+Acquired coagulation factor deficiency
+"Delayed delivery after spontaneous or unspecified rupture of membranes, delivered, with or without mention of antepartum condition"
+"Congenital abnormalities of uterus, unspecified as to episode of care or not applicable"
+Request for expert evidence
+Juvenile chronic polyarthritis
+Cervicalgia
+Screening examination for malignant neoplasms of the breast
+"Scoliosis [and kyphoscoliosis], idiopathic"
+Neoplasm of uncertain behavior of other and unspecified female genital organs
+Screening examination for malignant neoplasms of the breast
+Personal history of malignant neoplasm of breast
+"Subendocardial infarction, subsequent episode of care"
+"Breast screening, unspecified"
+Aphasia
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Screening for malignant neoplasms of cervix
+Neoplasm of uncertain behavior of placenta
+"Outcome of delivery, twins, one liveborn and one stillborn"
+Lumbago
+"Diabetes with peripheral circulatory disorders, type II or unspecified type, uncontrolled"
+Diverticulitis of colon (without mention of hemorrhage)
+Disorders of sacrum
+Heart replaced by other means
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Acute respiratory failure following trauma and surgery
+Screening for malignant neoplasms of cervix
+Personal history of contact with and (suspected) exposure to lead
+Necrotizing fasciitis
+Esophageal reflux
+Other symptoms involving skin and integumentary tissues
+Diverticula of colon
+Atrial fibrillation and flutter
+Special screening examination for Human papillomavirus (HPV)
+Screening examination for measles
+"Viral hepatitis B with hepatic coma, acute or unspecified, with hepatitis delta"
+Attention deficit disorder with hyperactivity
+Sideroblastic anemia
+Other acute reactions to stress
+Acute venous embolism and thrombosis of deep veins of upper extremity
+"Disorders of impulse control, not elsewhere classified"
+Postprocedural fever
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+"Bipolar disorder, unspecified"
+Routine general medical examination at a health care facility
+Lumbago
+Mechanical entropion
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+Atrial flutter
+Screening for developmental handicaps in early childhood
+Fitting and adjustment of devices related to nervous system and special senses
+Other general medical examination for administrative purposes
+Reflex sympathetic dystrophy
+Motor problems with limbs
+Cervical rib
+Antisocial personality disorder
+Nonspecific abnormal findings in stool contents
+"Malaria in the mother, delivered, with mention of postpartum complication"
+Sicca syndrome
+Screening for malignant neoplasms of cervix
+"Body Mass Index between 30-39, adult"
+Chronic obstructive asthma with status asthmaticus
+Vascular hamartomas
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Supervision of high-risk pregnancy with history of infertility
+Larynx replacement
+Chronic tubotympanic suppurative otitis media
+Supervision of high-risk pregnancy with elderly primigravida
+"Subendocardial infarction, subsequent episode of care"
+Neoplasm of uncertain behavior of other and unspecified endocrine glands
+Period of rapid growth in childhood
+Neoplasm of uncertain behavior of uterus
+Other organ or tissue replaced by other means
+Postherpetic trigeminal neuralgia
+Postvaccination fever
+Cervicalgia
+Other organ or tissue replaced by other means
+Routine infant or child health check
+"Other psychological or physical stress, not elsewhere classified"
+"Other venereal diseases in the mother complicating pregnancy, childbirth, or the puerperium"
+Other chest pain
+"Pain in joint, multiple sites"
+"Viral hepatitis B with hepatic coma, acute or unspecified, without mention of hepatitis delta"
+"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+Other organ or tissue replaced by other means
+Health supervision of foundling
+Personal history of malignant neoplasm of breast
+Fecal impaction
+Postprocedural fever
+"Schmorl's nodes, unspecified region"
+Retinal arterial branch occlusion
+"Amblyopia, unspecified"
+"Screening for other and unspecified endocrine, nutritional, metabolic and immunity disorders"
+Other organ or tissue replaced by other means
+Routine general medical examination at a health care facility
+Malignant neoplasm of rectosigmoid junction
+Atrial fibrillation
+"Viral hepatitis B without mention of hepatic coma, acute or unspecified, with hepatitis delta"
+"Other venereal diseases in the mother complicating pregnancy, childbirth, or the puerperium"
+"Chronic obstructive asthma, unspecified"
+Agoraphobia with panic disorder
+"Subendocardial infarction, subsequent episode of care"
+Hemorrhage and infarction of thyroid
+Neoplasm of uncertain behavior of uterus
+Macroglobulinemia
+Other specific muscle disorders
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Schizoaffective disorder, unspecified"
+"Major depressive affective disorder, recurrent episode, moderate"
+Other organ or tissue replaced by other means
+Septic shock
+Special screening examination for other specified viral diseases
+Persistent disorder of initiating or maintaining sleep
+Screening examination for malignant neoplasms of the breast
+"Drug dependence of mother, delivered, with mention of postpartum complication"
+Person awaiting admission to adequate facility elsewhere
+Eosinophilia
+Person awaiting admission to adequate facility elsewhere
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Intervertebral disc disorder with myelopathy, unspecified region"
+"Major depressive affective disorder, recurrent episode, unspecified"
+Unspecified psychosis
+"Chronic obstructive asthma, unspecified"
+Cervicalgia
+Other organ or tissue replaced by other means
+Headache
+Acute combined systolic and diastolic heart failure
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+"Unspecified schizophrenia, unspecified"
+Personal history of malignant neoplasm of breast
+Atrial fibrillation
+"Major depressive affective disorder, recurrent episode, unspecified"
+"Other psychological or physical stress, not elsewhere classified"
+"Other psychological or physical stress, not elsewhere classified"
+Other specified congenital anomalies of face and neck
+"Neural hearing loss, bilateral"
+Memory loss
+Edema
+Personal history of peptic ulcer disease
+"Sedative, hypnotic or anxiolytic dependence, unspecified"
+Sprain of lumbar
+Neoplasm of uncertain behavior of other and unspecified urinary organs
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+Inconclusive mammogram
+Issue of medical certificates
+Neoplasm of uncertain behavior of breast
+Screening examination for rubella
+Exposure to SARS-associated coronavirus
+Fitting and adjustment of devices related to nervous system and special senses
+Septic shock
+"Disorders of impulse control, not elsewhere classified"
+Exposure to SARS-associated coronavirus
+Atrial flutter
+"Outcome of delivery, twins, one liveborn and one stillborn"
+Atrial flutter
+Personal history of malignant neoplasm of breast
+Transient hypertension of pregnancy
+Serous detachment of retinal pigment epithelium
+Idiopathic interstitial pneumonia
+Other and unspecified extrapyramidal diseases and abnormal movement disorders
+Lumbago
+"Screening for other and unspecified endocrine, nutritional, metabolic and immunity disorders"
+Supervision of high-risk pregnancy with grand multiparity
+Pre-operative cardiovascular examination
+Special screening examination for Human papillomavirus (HPV)
+"Abdominal pain, right upper quadrant"
+Rash and other nonspecific skin eruption
+"Schmorl's nodes, unspecified region"
+Special screening examination for other specified viral diseases
+Long-term (current) use of antibiotics
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+Rosacea conjunctivitis
+Acquired spondylolisthesis
+Noise-induced hearing loss
+"Nephritis and nephropathy, not specified as acute or chronic, with lesion of membranoproliferative glomerulonephritis"
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+Routine general medical examination at a health care facility
+Reflex sympathetic dystrophy
+Sciatica
+"Bone and joint disorders of back, pelvis, and lower limbs of mother, complicating pregnancy, childbirth, or the puerperium"
+Noise-induced hearing loss
+Acute appendicitis with generalized peritonitis
+Need for prophylactic vaccination and inoculation against influenza
+Dehydration
+"Tinnitus, unspecified"
+Retinal exudates and deposits
+Coronary atherosclerosis
+Esophageal reflux
+Screening examination for malignant neoplasms of the breast
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Sweating fever
+Pathologic fracture
+Edema
+Aneurysm of artery of lower extremity
+Special screening examination for other specified viral diseases
+Other general medical examination for administrative purposes
+"Fetal malnutrition without mention of ""light-for-dates"""
+Pathological gambling
+Screening for malignant neoplasms of oral cavity
+Premenopausal menorrhagia
+Atrial fibrillation
+"Body Mass Index between 30-39, adult"
+Supervision of high-risk pregnancy with elderly primigravida
+Mood disorder in conditions classified elsewhere
+Edema
+"Opioid type dependence, continuous"
+Hypertrophy of labia
+"Enthesopathy of elbow, unspecified"
+"Chest pain, unspecified"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Abdominal aneurysm, ruptured"
+"Retroverted and incarcerated gravid uterus, delivered, with mention of postpartum complication"
+"Schmorl's nodes, unspecified region"
+Lack of coordination
+Chondromalacia
+"Abdominal tenderness, left upper quadrant"
+Aneurysm of artery of lower extremity
+"Twin birth, unspecified whether mate liveborn or stillborn, born before admission to hospital"
+Personal history of malignant neoplasm of breast
+Dementia in conditions classified elsewhere without behavioral disturbance
+Deficiencies of limbs
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, unspecified as to episode of care or not applicable"
+Contact dermatitis and other eczema due to drugs and medicines in contact with skin
+"Chest pain, unspecified"
+Rash and other nonspecific skin eruption
+"Chronic obstructive asthma, unspecified"
+Vascular hamartomas
+Neoplasm of uncertain behavior of placenta
+"Chronic obstructive asthma, unspecified"
+"Pressure ulcer, unspecified stage"
+Polycythemia vera
+Other organ or tissue replaced by other means
+Other general medical examination for administrative purposes
+Mental and behavioral problems with learning
+Edema
+Vascular hamartomas
+Chronic obstructive asthma with status asthmaticus
+Screening for malignant neoplasms of bladder
+Other symptoms involving skin and integumentary tissues
+Hyperkinetic conduct disorder
+Lack of coordination
+"Organ or tissue replaced by other means, heart assist device"
+Sciatica
+"Jaundice, unspecified, not of newborn"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, unspecified as to episode of care or not applicable"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Retroverted and incarcerated gravid uterus, delivered, with mention of postpartum complication"
+"Abdominal aneurysm, ruptured"
+Acute bronchitis
+Procedure not carried out for other reasons
+Chronic viral hepatitis B without mention of hepatic coma without mention of hepatitis delta
+Serous detachment of retinal pigment epithelium
+Acquired coagulation factor deficiency
+Low birth weight status
+Persistent vomiting
+Dual sensory impairment
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Paranoid type schizophrenia, unspecified"
+Overexertion and strenuous and repetitive movements or loads
+Cor triatriatum
+Neoplasm of uncertain behavior of other lymphatic and hematopoietic tissues
+Ureteral fistula
+Pathologic fracture
+Hyperkinetic conduct disorder
+Hyperkinetic conduct disorder
+Observation for suspected mental condition
+Hemophilia A carrier
+"Chest pain, unspecified"
+Acidosis
+"Chest pain, unspecified"
+Severe intellectual disabilities
+Failed attempted abortion complicated by damage to pelvic organs or tissues
+Cervicalgia
+"Alcohol abuse, continuous"
+"Other anomalies of larynx, trachea, and bronchus"
+Methicillin resistant Staphylococcus aureus septicemia
+Supervision of high-risk pregnancy with history of trophoblastic disease
+Aneurysm of other specified artery
+"Outcome of delivery, twins, one liveborn and one stillborn"
+"Screening for other and unspecified endocrine, nutritional, metabolic and immunity disorders"
+Polycythemia vera
+Hemiplegia/hemiparesis as late effect of cerebrovascular disease
+Coronary atherosclerosis of native coronary artery
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+Diverticula of colon
+Neutropenia
+Juvenile chronic polyarthritis
+Transfusion related acute lung injury (TRALI)
+"Other and unspecified disc disorder, cervical region"
+Acute dystonia due to drugs
+"Interpersonal problems, not elsewhere classified"
+Acquired deformity of pelvis
+"Outcome of delivery, twins, one liveborn and one stillborn"
+"Analgesics, antipyretics, and antirheumatics causing adverse effects in therapeutic use"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Calculus of kidney
+Persistent disorder of initiating or maintaining sleep
+Objective tinnitus
+Esophageal hemorrhage
+Motor problems with limbs
+Hemiplegia/hemiparesis as late effect of cerebrovascular disease
+"Chest pain, unspecified"
+Pulmonary arteriovenous malformation
+Acute alcoholic hepatitis
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+Special screening examination for Human papillomavirus (HPV)
+Personal history of malignant neoplasm of breast
+Chondromalacia
+Personal history of malignant neoplasm of breast
+Edema
+"Stress incontinence, male"
+Non-autoimmune hemolytic anemias
+Cervical spondylosis with myelopathy
+Hemopericardium
+Screening for malignant neoplasms of cervix
+Other general medical examination for administrative purposes
+"Pressure ulcer, unspecified site"
+Contact dermatitis and other eczema due to drugs and medicines in contact with skin
+Presenile dementia
+Need for prophylactic vaccination and inoculation against diptheria-tetanus- pertussis with typhoid-paratyphoid (DTP + TAB)
+"Tuberculosis of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with mention of postpartum complication"
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, unspecified as to episode of care or not applicable"
+"Intermittent heterotropia, unspecified"
+Screening for malignant neoplasms of bladder
+"Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, antepartum condition or complication"
+Inconclusive mammogram
+Atrial flutter
+Pancreas replaced by transplant
+Stridor
+Edema
+Chronic pain syndrome
+Ulcer of esophagus
+"Breast screening, unspecified"
+Hepatomegaly
+Supervision of high-risk pregnancy with history of infertility
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+Alkalosis
+Screening for malignant neoplasms of cervix
+Special screening examination for other specified viral diseases
+"Other joint derangement, not elsewhere classified, upper arm"
+Screening examination for malignant neoplasms of the breast
+"Retinal vascular occlusion, unspecified"
+Other mental problems
+"Pain in joint, multiple sites"
+"Breast screening, unspecified"
+Personal history of malignant neoplasm of breast
+Personal history of other genital system and obstetric disorders
+Transient hypertension of pregnancy
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+"Major depressive affective disorder, recurrent episode, unspecified"
+Routine general medical examination at a health care facility
+Screening for malignant neoplasms of bladder
+Other organ or tissue replaced by other means
+"Tuberculosis of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with mention of postpartum complication"
+Benign essential hypertension
+Neutropenia
+Personal history of malignant neoplasm
+"Abdominal pain, right upper quadrant"
+Supervision of high-risk pregnancy with elderly primigravida
+Routine general medical examination at a health care facility
+Long-term (current) use of anticoagulants
+"Intermittent heterotropia, unspecified"
+"Late effects of cerebrovascular disease, hemiplegia affecting nondominant side"
+"Major depressive affective disorder, recurrent episode, moderate"
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+Congenital musculoskeletal deformities of spine
+Low grade myelodysplastic syndrome lesions
+Retinal exudates and deposits
+Coronary atherosclerosis
+Volume depletion
+Personal history of malignant neoplasm of breast
+"Alcohol abuse, continuous"
+Neutropenia
+Neoplasm of uncertain behavior of skin
+"Single liveborn, born in hospital"
+"Other infections involving bone in diseases classified elsewhere, upper arm"
+"Chronic obstructive asthma, unspecified"
+Edema
+Immune thrombocytopenic purpura
+"Pain in joint, site unspecified"
+"Leukorrhea, not specified as infective"
+Hormones and synthetic substitutes causing adverse effects in therapeutic use
+Other antenatal screening based on amniocentesis
+Acquired deformity of chest and rib
+Request for expert evidence
+"Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, delivered, with or without mention of antepartum condition"
+Routine general medical examination at a health care facility
+Noise-induced hearing loss
+Other mental problems
+Other symbolic dysfunction
+Disturbances of sensation of smell and taste
+"Body Mass Index between 30-39, adult"
+Hyperkinetic conduct disorder
+Cervicalgia
+"Anemia, unspecified"
+Lack of coordination
+Special screening examination for Human papillomavirus (HPV)
+"Hodgkin's disease, lymphocytic depletion, intrathoracic lymph nodes"
+"Carcinoma in situ, vulva"
+Hemophilia A carrier
+Other specified reasons for unavailability of medical facilities
+Screening for malignant neoplasms of cervix
+Reflex sympathetic dystrophy
+Angiodysplasia of stomach and duodenum without mention of hemorrhage
+Chronic duodenal ileus
+Transient alteration of awareness
+Necrotizing fasciitis
+Hemiplegia/hemiparesis as late effect of cerebrovascular disease
+Disruption of external operation (surgical) wound
+Encounter for change or removal of nonsurgical wound dressing
+Hyperkinetic conduct disorder
+"Cocaine abuse, unspecified"
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+"Vascular dementia, uncomplicated"
+"Major depressive affective disorder, recurrent episode, severe, specified as with psychotic behavior"
+Personal history of malignant neoplasm of breast
+Routine general medical examination at a health care facility
+Routine general medical examination at a health care facility
+"Unstable lie, unspecified as to episode of care or not applicable"
+Atrial fibrillation
+Attention to dressings and sutures
+Spondylolisthesis
+Deficiencies of head
+Regular astigmatism
+Celiac disease
+"Major depressive affective disorder, recurrent episode, moderate"
+"Major depressive affective disorder, recurrent episode, severe, specified as with psychotic behavior"
+Acquired deformity of neck
+Screening for malignant neoplasms of bladder
+Screening for malignant neoplasms of bladder
+Coxa vara (acquired)
+Special screening examination for Human papillomavirus (HPV)
+"Follow-up examination, following chemotherapy"
+"Other late effects of cerebrovascular disease, dysphagia"
+Sciatica
+Other disorders of conjunctiva
+Supervision of high-risk pregnancy with history of trophoblastic disease
+Chronic pain syndrome
+Unspecified osteomyelitis
+Chronic pain syndrome
+Noise-induced hearing loss
+Lack of coordination
+"Single liveborn, born in hospital"
+Personal history of malignant neoplasm of thyroid
+"Jaundice, unspecified, not of newborn"
+"Alcohol abuse, continuous"
+Acute combined systolic and diastolic heart failure
+Unspecified chronic liver disease without mention of alcohol
+Cervicalgia
+Observation for suspected mental condition
+Other organ or tissue replaced by other means
+Marfan syndrome
+"Encephalopathy, not elsewhere classified"
+"Major depressive affective disorder, recurrent episode, moderate"
+Edema
+Nonunion of fracture
+Cervicalgia
+Loss of weight
+Mixed receptive-expressive language disorder
+Central retinal artery occlusion
+Heart replaced by other means
+"Fistula of intestine, excluding rectum and anus"
+Personal history of tobacco use
+Screening examination for malignant neoplasms of the breast
+Other and unspecified disorders of bone and cartilage
+"Fracture of upper end of tibia and fibula, open"
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+"Chest pain, unspecified"
+Screening for malignant neoplasms of cervix
+"Paralysis of vocal cords or larynx, unspecified"
+Unspecified musculoskeletal disorders and symptoms referable to neck
+Routine general medical examination at a health care facility
+Aneurysm of artery of lower extremity
+"Amyloidosis, unspecified"
+"Acute sinusitis, unspecified"
+Ulcer of esophagus
+"Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, delivered, with or without mention of antepartum condition"
+Aphasia
+Neoplasm of uncertain behavior of placenta
+Meningitis in other fungal diseases
+Need for prophylactic vaccination and inoculation against diptheria-tetanus- pertussis with typhoid-paratyphoid (DTP + TAB)
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Newborn health supervision
+Open fracture of upper end of fibula alone
+"Acute nonsuppurative otitis media, unspecified"
+Alcoholic cirrhosis of liver
+Calculus of kidney
+Bulimia nervosa
+Urinary tract infection of newborn
+"Fracture of upper end of tibia and fibula, closed"
+"Ulcer of lower limb, unspecified"
+Sweating fever
+"Other and unspecified intracranial hemorrhage following injury, without mention of open intracranial wound"
+Neoplasm of uncertain behavior of placenta
+Talipes valgus
+"Accidental puncture or laceration during a procedure, not elsewhere classified"
+Special screening examination for other specified viral diseases
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+Suicidal ideation
+Atrial fibrillation
+"Other psychological or physical stress, not elsewhere classified"
+Edema
+Hyperkinetic conduct disorder
+Mitral valve disorders
+Mechanical and motor problems with head
+Menstrual extraction
+Pancreas replaced by transplant
+Kidney replaced by transplant
+Angiodysplasia of stomach and duodenum without mention of hemorrhage
+Autoimmune hemolytic anemias
+Acute combined systolic and diastolic heart failure
+"Cocaine dependence, continuous"
+"Other psychological or physical stress, not elsewhere classified"
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+Neutropenia
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Open fracture of upper end of fibula alone
+Supervision of high-risk pregnancy with history of trophoblastic disease
+Disturbances of sensation of smell and taste
+Memory loss
+Retinal exudates and deposits
+"Nephritis and nephropathy, not specified as acute or chronic, in diseases classified elsewhere"
+Larynx replacement
+Personal history of malignant neoplasm of breast
+Other developmental speech or language disorder
+"Rupture of muscle, nontraumatic"
+Antineoplastic chemotherapy induced anemia
+"Outcome of delivery, twins, one liveborn and one stillborn"
+"Disorders of impulse control, not elsewhere classified"
+Pathological gambling
+"Other anomalies of larynx, trachea, and bronchus"
+"Body Mass Index between 30-39, adult"
+"Alcohol abuse, continuous"
+Lack of coordination
+Pathologic fracture
+Hemiplegia/hemiparesis as late effect of cerebrovascular disease
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Developmental coordination disorder
+Retinal exudates and deposits
+Portal hypertension
+Observation for other suspected mental condition
+"Cannabis abuse, unspecified"
+Sprain of sacrum
+Transient hypertension of pregnancy
+Disturbances of sensation of smell and taste
+Screening for developmental handicaps in early childhood
+"Analgesics, antipyretics, and antirheumatics causing adverse effects in therapeutic use"
+"Chronic obstructive asthma, unspecified"
+Screening for malignant neoplasms of cervix
+"Drug dependence of mother, delivered, with mention of postpartum complication"
+"Urinary tract infection, site not specified"
+Attention deficit disorder with hyperactivity
+Overexertion and strenuous and repetitive movements or loads
+"Other psychological or physical stress, not elsewhere classified"
+Influenza with pneumonia
+Vascular hamartomas
+Mechanical and motor problems with internal organs
+Unspecified infection of bone
+"Calculus of gallbladder and bile duct with acute and chronic cholecystitis, with obstruction"
+Striae atrophicae
+"Major depressive affective disorder, recurrent episode, unspecified"
+Malignant essential hypertension
+Orofacial dyskinesia
+"Other counseling, not elsewhere classified"
+Hemiplegia/hemiparesis as late effect of cerebrovascular disease
+"Other psychological or physical stress, not elsewhere classified"
+Pernicious anemia
+"Chest pain, unspecified"
+Eye globe replaced by other means
+Background diabetic retinopathy
+Special screening examination for Human papillomavirus (HPV)
+Pulmonary arteriovenous malformation
+Screening for iron deficiency anemia
+Supervision of high-risk pregnancy with history of trophoblastic disease
+Special screening examination for Human papillomavirus (HPV)
+Acquired deformity of neck
+Routine general medical examination at a health care facility
+Ankylosing spondylitis
+Other general medical examination for administrative purposes
+"Other joint derangement, not elsewhere classified, upper arm"
+"Other multiple birth (three or more), mates liveborn and stillborn, born outside hospital and not hospitalized"
+"Subjective visual disturbance, unspecified"
+Exophoria
+"Organic hypersomnia, unspecified"
+Person awaiting admission to adequate facility elsewhere
+Special screening examination for Human papillomavirus (HPV)
+Transient hypertension of pregnancy
+Acquired deformity of pelvis
+Genetic counseling and testing on procreative management
+Special investigations and examinations - Gynecological examination
+Unspecified obstructive defect of renal pelvis and ureter
+Agoraphobia with panic disorder
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Obstruction of bile duct
+"Cannabis abuse, unspecified"
+"Pressure ulcer, stage I"
+Edema
+"Pain in joint, multiple sites"
+"Intermittent heterotropia, unspecified"
+Portal hypertension
+Postherpetic trigeminal neuralgia
+"Peripheral pterygium, progressive"
+Edema
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, unspecified as to episode of care or not applicable"
+Rash and other nonspecific skin eruption
+Retinal exudates and deposits
+Atherosclerosis of nonautologous biological bypass graft of the extremities
+Unspecified protein-calorie malnutrition
+Neoplasm of uncertain behavior of connective and other soft tissue
+Displacement of thoracic or lumbar intervertebral disc without myelopathy
+Failed attempted abortion complicated by damage to pelvic organs or tissues
+Supervision of high-risk pregnancy with elderly primigravida
+Headache associated with sexual activity
+"Outcome of delivery, twins, one liveborn and one stillborn"
+"Lagophthalmos, unspecified"
+Malignant neoplasm of descending colon
+Mechanical and motor problems with neck and trunk
+"Drug dependence of mother, delivered, with mention of postpartum complication"
+Lack of coordination
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Supervision of high-risk pregnancy with grand multiparity
+Open fracture of coronoid process of ulna
+Routine general medical examination at a health care facility
+Hemiplegia/hemiparesis as late effect of cerebrovascular disease
+Retinal dystrophy in other systemic disorders and syndromes
+Functional quadriplegia
+Cholangitis
+"Urinary tract infection, site not specified"
+Other organ or tissue replaced by other means
+Coronary atherosclerosis of bypass graft (artery) (vein) of transplanted heart
+Nonunion of fracture
+Edema
+"Cannabis dependence, unspecified"
+"Chronic obstructive asthma, unspecified"
+Primary thrombocytopenia
+"Coagulation defects complicating pregnancy, childbirth, or the puerperium"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Atrial fibrillation and flutter
+Viral hepatitis A with hepatic coma
+"Acute conjunctivitis, unspecified"
+"Pressure ulcer, stage II"
+Autoimmune hemolytic anemias
+Agoraphobia with panic disorder
+"Organ or tissue replaced by other means, heart assist device"
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, antepartum condition or complication"
+Sprain of sacrum
+Late effects of genitourinary tuberculosis
+Sciatica
+Breast replacement
+"Pain in joint, multiple sites"
+Other specified vaccinations against streptococcus pneumoniae [pneumococcus]
+Contact dermatitis and other eczema due to other specified agents
+Brachial neuritis or radiculitis NOS
+Iniencephaly
+Unspecified deformity of finger
+Other general medical examination for administrative purposes
+Viral hepatitis B with hepatic coma
+Pre-operative cardiovascular examination
+Aneurysm of artery of lower extremity
+Pain in joint
+"Pain in joint, multiple sites"
+Genetic counseling and testing on procreative management
+"Other psychological or physical stress, not elsewhere classified"
+Special screening examination for Human papillomavirus (HPV)
+Developmental coordination disorder
+"Organ or tissue replaced by other means, heart assist device"
+Other antenatal screening based on amniocentesis
+"Fetal distress before onset of labor, in liveborn infant"
+"Disorders of bursae and tendons in shoulder region, unspecified"
+"Pain in joint, site unspecified"
+"Organ or tissue replaced by other means, heart assist device"
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+Screening examination for unspecified bacterial and spirochetal diseases
+Supervision of normal first pregnancy
+"Other anomalies of larynx, trachea, and bronchus"
+Counseling for perpetrator of physical/sexual abuse
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Screening for malignant neoplasms of cervix
+Sprain of sacrum
+Open fracture of coronoid process of ulna
+"Major depressive affective disorder, recurrent episode, moderate"
+"Other anomalies of larynx, trachea, and bronchus"
+Erythromelalgia
+Other organ or tissue replaced by other means
+Other specified congenital anomalies of ear
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+Cervicalgia
+Hemophilia A carrier
+Supervision of high-risk pregnancy with history of infertility
+Disturbances of sensation of smell and taste
+Pathological gambling
+Displacement of thoracic or lumbar intervertebral disc without myelopathy
+Chest pain
+Sprain of sacrum
+Ego-dystonic sexual orientation
+Fitting and adjustment of hearing aid
+Left heart failure
+Acute combined systolic and diastolic heart failure
+Chondromalacia
+"Cannabis abuse, unspecified"
+Autoimmune hemolytic anemias
+Ego-dystonic sexual orientation
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+Headache associated with sexual activity
+"Keratoderma, acquired"
+"Delayed delivery after artificial rupture of membranes, unspecified as to episode of care or not applicable"
+"Disorders of impulse control, not elsewhere classified"
+Psychotic disorder with delusions in conditions classified elsewhere
+"Drug dependence of mother, delivered, with mention of postpartum complication"
+Neoplasm of uncertain behavior of other and unspecified female genital organs
+Need for prophylactic vaccination and inoculation against influenza
+Special screening examination for Human papillomavirus (HPV)
+"Palindromic rheumatism, site unspecified"
+Sicca syndrome
+Attention to dressings and sutures
+Observation for suspected mental condition
+Serous detachment of retinal pigment epithelium
+Acute respiratory failure
+Dermatitis due to metals
+"Anemia, unspecified"
+Screening for developmental handicaps in early childhood
+Personal history of malignant neoplasm
+Screening for phenylketonuria (PKU)
+Supervision of high-risk pregnancy with elderly primigravida
+Pathologic fracture
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+Raynaud's syndrome
+Chronic pain
+Adjustment disorder with mixed anxiety and depressed mood
+Endometriosis of fallopian tube
+Retinal exudates and deposits
+Supervision of high-risk pregnancy with elderly primigravida
+Heart replaced by other means
+"Cocaine dependence, unspecified"
+Unspecified extrapyramidal disease and abnormal movement disorder
+"Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, antepartum condition or complication"
+Suicidal ideation
+"Visual field defect, unspecified"
+"Organic sleep apnea, unspecified"
+"Breast screening, unspecified"
+"Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, antepartum condition or complication"
+"Enthesopathy of elbow, unspecified"
+"Chronic obstructive asthma, unspecified"
+Supervision of high-risk pregnancy with history of trophoblastic disease
+Lagophthalmos
+Person feigning illness
+"Chronic obstructive asthma, unspecified"
+Hemiplegia/hemiparesis as late effect of cerebrovascular disease
+"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease"
+Acquired deformity of neck
+"Enthesopathy of elbow, unspecified"
+Labyrinthitis
+Acute combined systolic and diastolic heart failure
+Persistent disorder of initiating or maintaining sleep
+Juvenile osteochondrosis of upper extremity
+"Schmorl's nodes, unspecified region"
+Screening for malignant neoplasms of cervix
+"Organ or tissue replaced by other means, fully implantable artificial heart"
+Retinal exudates and deposits
+Hemiplegia/hemiparesis as late effect of cerebrovascular disease
+"Vascular dementia, uncomplicated"
+"Chronic obstructive asthma, unspecified"
+"Acute conjunctivitis, unspecified"
+Nonunion of fracture
+Abnormalities of the hair
+"Other psychological or physical stress, not elsewhere classified"
+Obstruction of bile duct
+Atherosclerosis of native arteries of the extremities with intermittent claudication
+Open fracture of coronoid process of ulna
+Interstitial emphysema
+Person awaiting admission to adequate facility elsewhere
+Retinal dystrophy in other systemic disorders and syndromes
+Other specific muscle disorders
+"Drug dependence of mother, delivered, with mention of postpartum complication"
+Special screening examination for Human papillomavirus (HPV)
+Ulcer of esophagus
+"Breast screening, unspecified"
+Circadian rhythm sleep disorder
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition"
+Cervical rib
+Monocular exotropia with A pattern
+"Diabetes mellitus complicating pregnancy, childbirth, or the puerperium"
+Attention deficit disorder of childhood
+Screening for malignant neoplasms of bladder
+Other organ or tissue replaced by other means
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+Idiopathic urticaria
+Erythromelalgia
+Retinal dystrophy in other systemic disorders and syndromes
+"Enthesopathy of elbow, unspecified"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Personal history of malignant neoplasm of breast
+"Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, antepartum condition or complication"
+Screening examination for unspecified viral disease
+Reflex sympathetic dystrophy
+"Disorders of impulse control, not elsewhere classified"
+Menstrual extraction
+Neutropenia
+"Fracture of upper end of tibia and fibula, closed"
+"Other anomalies of larynx, trachea, and bronchus"
+Hematemesis
+Unspecified disorder of liver
+Contact dermatitis and other eczema due to drugs and medicines in contact with skin
+Other organ or tissue replaced by other means
+Special screening examination for Human papillomavirus (HPV)
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Special screening examination for other specified viral diseases
+"Other anomalies of larynx, trachea, and bronchus"
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+Anorexia nervosa
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Observation and evaluation for other specified suspected conditions
+Cervicalgia
+Sciatica
+"Body Mass Index between 30-39, adult"
+"Abdominal tenderness, left upper quadrant"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Edema
+Stromal corneal pigmentations
+Counseling for perpetrator of physical/sexual abuse
+Other organ or tissue replaced by other means
+"Myalgia and myositis, unspecified"
+Routine general medical examination at a health care facility
+Ulcer of esophagus
+Displacement of lumbar intervertebral disc without myelopathy
+Medial epicondylitis
+"Major depressive affective disorder, recurrent episode, moderate"
+Diplopia
+Unspecified disease of pharynx
+Polycythemia vera
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Chronic duodenal ulcer without mention of hemorrhage or perforation
+Reflex sympathetic dystrophy
+Larynx replacement
+Pathological gambling
+"Aftercare following surgery of the sense organs, NEC"
+"Major depressive affective disorder, recurrent episode, unspecified"
+"Abdominal aneurysm, ruptured"
+Candidal esophagitis
+Ulcer of esophagus
+"Closed dislocation, thoracic and lumbar vertebra"
+Abnormality in fetal heart rate or rhythm during labor
+Screening examination for malignant neoplasms of the breast
+Umbilical hemorrhage after birth
+Hemophilia A carrier
+Lack of expected normal physiological development in childhood
+Other and unspecified extrapyramidal diseases and abnormal movement disorders
+Neoplasm of uncertain behavior of placenta
+Sprain of sacrum
+Other organ or tissue replaced by other means
+Supervision of high-risk pregnancy with grand multiparity
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+Routine general medical examination at a health care facility
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+"Nephritis and nephropathy, not specified as acute or chronic, with lesion of membranoproliferative glomerulonephritis"
+Rosacea conjunctivitis
+"Mental disorders complicating pregnancy, childbirth, or the puerperium"
+Retinal exudates and deposits
+"Undersocialized conduct disorder, aggressive type"
+Bulimia nervosa
+Routine infant or child health check
+Rheumatic heart failure (congestive)
+Serous detachment of retinal pigment epithelium
+"Open fracture of upper end of forearm, unspecified"
+Benign essential hypertension
+Enthesopathy of elbow region
+Screening examination for measles
+"Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, delivered, with or without mention of antepartum condition"
+Personal history of malignant neoplasm of breast
+Acute dystonia due to drugs
+"Keratoderma, acquired"
+Acute kidney failure with lesion of renal medullary [papillary] necrosis
+Screening examination for diphtheria
+Ulcer of esophagus without bleeding
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition"
+Monocular exotropia with A pattern
+Cor triatriatum
+Other organ or tissue replaced by other means
+"Narcolepsy, without cataplexy"
+"Schmorl's nodes, unspecified region"
+Edema
+Screening for malignant neoplasms of cervix
+"Body Mass Index between 30-39, adult"
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, antepartum condition or complication"
+Abscess of salivary gland
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Major depressive affective disorder, recurrent episode, mild"
+"Acute nonsuppurative otitis media, unspecified"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Follow-up examination, following chemotherapy"
+Accident due to lightning
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+Special screening examination for Human papillomavirus (HPV)
+Other acquired deformities of finger
+Other general medical examination for administrative purposes
+Observation for suspected mental condition
+Neoplasm of uncertain behavior of connective and other soft tissue
+"Other malignant lymphomas, lymph nodes of inguinal region and lower limb"
+Special screening examination for Human papillomavirus (HPV)
+Generalized anxiety disorder
+Retinal dystrophy in other systemic disorders and syndromes
+Personal history of malignant neoplasm of breast
+Family history of malignant neoplasm of breast
+"Other dependence on machines, supplemental oxygen"
+Special screening examination for other specified viral diseases
+Other and unspecified disorders of bone and cartilage
+Low birth weight status
+Shared psychotic disorder
+Mechanical and motor problems with neck and trunk
+"Pain in joint, multiple sites"
+"Hemoptysis, unspecified"
+"Enthesopathy of elbow, unspecified"
+Retinal exudates and deposits
+Eosinophilia
+Screening for depression
+Acute combined systolic and diastolic heart failure
+Atherosclerosis of nonautologous biological bypass graft of the extremities
+Pre-operative cardiovascular examination
+Other postprocedural status
+Congenital hydrocephalus
+Retinal exudates and deposits
+"Subjective visual disturbance, unspecified"
+Hemiplegia/hemiparesis as late effect of cerebrovascular disease
+Routine general medical examination at a health care facility
+Asymptomatic human immunodeficiency virus [HIV] infection status
+Suicidal ideation
+"Fracture of upper end of tibia and fibula, closed"
+Transfusion related acute lung injury (TRALI)
+Other digestive problems
+"Falling from high place, undetermined whether accidentally or purposely inflicted"
+Necrotizing fasciitis
+"Major depressive affective disorder, recurrent episode, unspecified"
+Headache
+"Other anomalies of larynx, trachea, and bronchus"
+"Outcome of delivery, twins, one liveborn and one stillborn"
+Edema
+Oval window fistula
+Other internal derangement of knee
+Lack of coordination
+Special screening examination for Human papillomavirus (HPV)
+Vascular hamartomas
+Routine general medical examination at a health care facility
+Personal history of malignant neoplasm
+"Conjunctivitis, unspecified"
+Reflex sympathetic dystrophy
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+Supervision of normal first pregnancy
+"Hypersensitivity angiitis, unspecified"
+Arthropathy associated with hematological disorders
+"Transient hypertension of pregnancy, delivered , with or without mention of antepartum condition"
+Lack of coordination
+"Disorders of impulse control, not elsewhere classified"
+Routine general medical examination at a health care facility
+"Amyloidosis, unspecified"
+Retinal exudates and deposits
+"Psychosexual dysfunction, unspecified"
+Chronic pain
+Personal history of malignant neoplasm
+Other organ or tissue replaced by other means
+Lack of expected normal physiological development in childhood
+Routine general medical examination at a health care facility
+Edema
+Talipes valgus
+"Hemoptysis, unspecified"
+"Nonallopathic lesions, thoracic region"
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition"
+Supervision of high-risk pregnancy with grand multiparity
+Newborn health supervision
+"Other anomalies of larynx, trachea, and bronchus"
+"Cerebrovascular disorders in the puerperium, delivered, with mention of postpartum complication"
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+Neoplasm of uncertain behavior of placenta
+Dementia in conditions classified elsewhere without behavioral disturbance
+Accident due to lightning
+Other primary thrombocytopenia
+Personal history of malignant neoplasm of breast
+Unspecified essential hypertension
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, antepartum condition or complication"
+Persistent vomiting
+Larynx replacement
+Acquired deformity of neck
+"Chronic obstructive asthma, unspecified"
+Acquired deformity of pelvis
+Special screening examination for other specified viral diseases
+Neoplasm of uncertain behavior of other lymphatic and hematopoietic tissues
+"Chest pain, unspecified"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Displacement of thoracic or lumbar intervertebral disc without myelopathy
+Other organ or tissue replaced by other means
+"Other psychological or physical stress, not elsewhere classified"
+Acquired cardiac septal defect
+"Scoliosis [and kyphoscoliosis], idiopathic"
+Screening for malignant neoplasms of cervix
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+"Organ or tissue replaced by other means, heart assist device"
+Late effects of genitourinary tuberculosis
+"Diabetes with peripheral circulatory disorders, type I [juvenile type], not stated as uncontrolled"
+"Drug dependence of mother, delivered, with mention of postpartum complication"
+Other organ or tissue replaced by other means
+Screening examination for malignant neoplasms of the breast
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+Erythromelalgia
+Transfusion related acute lung injury (TRALI)
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Closed fracture of upper end of fibula alone
+Acquired deformity of neck
+"General psychiatric examination, other and unspecified"
+Congenital musculoskeletal deformities of spine
+Headache
+Serous detachment of retinal pigment epithelium
+Polycythemia vera
+"Sedative, hypnotic or anxiolytic dependence, unspecified"
+Cervical rib
+Person awaiting admission to adequate facility elsewhere
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Monocular exotropia with A pattern
+"Enthesopathy of elbow, unspecified"
+Supervision of high-risk pregnancy with history of infertility
+Rosacea conjunctivitis
+"Transient hypertension of pregnancy, delivered , with or without mention of antepartum condition"
+"Major depressive affective disorder, recurrent episode, unspecified"
+Persistent disorder of initiating or maintaining sleep
+Contact with or exposure to poliomyelitis
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Attention to dressings and sutures
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+"Other joint derangement, not elsewhere classified, upper arm"
+"Polyarticular juvenile rheumatoid arthritis, chronic or unspecified"
+Toxic effect of hydrocyanic acid and cyanides
+"Breast screening, unspecified"
+Speech and language deficits as late effect of cerebrovascular disease
+"Outcome of delivery, twins, one liveborn and one stillborn"
+Personal history of malignant neoplasm of breast
+Other organ or tissue replaced by other means
+Congenital factor VIII disorder
+Toxic myoneural disorders
+Screening examination for malignant neoplasms of the breast
+Noise-induced hearing loss
+Supervision of normal first pregnancy
+"Retinal vascular occlusion, unspecified"
+Retinal exudates and deposits
+Tight hymenal ring
+Encounter for radiotherapy
+Old vaginal laceration
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Squamous cell carcinoma of other specified sites of skin
+"Schmorl's nodes, unspecified region"
+Neoplasm of uncertain behavior of other and unspecified female genital organs
+"Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, delivered, with or without mention of antepartum condition"
+Screening examination for poliomyelitis
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, antepartum condition or complication"
+Oval window fistula
+"Pressure ulcer, stage III"
+Edema
+Screening examination for malignant neoplasms of the breast
+"Chronic obstructive asthma, unspecified"
+Hemiplegia/hemiparesis as late effect of cerebrovascular disease
+Other specified pre-operative examination
+"Major depressive affective disorder, recurrent episode, moderate"
+"Schmorl's nodes, unspecified region"
+Edema
+Sprain of sacrum
+"Outcome of delivery, single stillborn"
+Screening examination for unspecified viral disease
+Aneurysm of other specified artery
+Monocular exotropia with A pattern
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Monoplegia of lower limb as late effect of cerebrovascular disease
+Personal history of malignant neoplasm of breast
+Screening examination for measles
+Unspecified essential hypertension
+Screening for developmental handicaps in early childhood
+Personal history of malignant neoplasm of gastrointestinal tract
+Other specific muscle disorders
+Special screening examination for Human papillomavirus (HPV)
+Routine general medical examination at a health care facility
+Pathological gambling
+Angiodysplasia of stomach and duodenum without mention of hemorrhage
+"Abdominal rigidity, left upper quadrant"
+Open fracture of upper end of fibula alone
+Colostomy status
+Person awaiting admission to adequate facility elsewhere
+"Other malignant lymphomas, lymph nodes of inguinal region and lower limb"
+Personal history of malignant neoplasm of breast
+"Congenital abnormalities of uterus, unspecified as to episode of care or not applicable"
+Atherosclerosis of native arteries of the extremities with intermittent claudication
+"Ulcer of lower limb, unspecified"
+Person awaiting admission to adequate facility elsewhere
+Neoplasm of uncertain behavior of other and unspecified female genital organs
+"Schmorl's nodes, unspecified region"
+Benign essential hypertension
+"Drug dependence of mother, delivered, with mention of postpartum complication"
+"Lagophthalmos, unspecified"
+Neoplasm of uncertain behavior of other and unspecified male genital organs
+Accident due to lightning
+Routine general medical examination at a health care facility
+Atrial fibrillation and flutter
+"Unilateral paralysis of vocal cords or larynx, complete"
+Retinal exudates and deposits
+Contact dermatitis and other eczema due to drugs and medicines in contact with skin
+Carcinoma in situ of cervix uteri
+Screening for malignant neoplasms of cervix
+Encounter for antineoplastic chemotherapy and immunotherapy
+"Tuberculosis of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with mention of postpartum complication"
+Screening for malignant neoplasms of cervix
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Transient visual loss
+Scar conditions and fibrosis of skin
+Screening examination for measles
+Routine general medical examination at a health care facility
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, delivered, with or without mention of antepartum condition"
+Other behavioral problems
+"Bipolar I disorder, most recent episode (or current) manic, severe, without mention of psychotic behavior"
+Open fracture of coronoid process of ulna
+"Paranoid type schizophrenia, unspecified"
+"Disorganized type schizophrenia, unspecified"
+Eosinophilia
+Monocular exotropia with A pattern
+"Undersocialized conduct disorder, aggressive type"
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+Other primary thrombocytopenia
+Personal history of other genital system and obstetric disorders
+Vascular dementia
+Chondromalacia
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+Erythromelalgia
+"Vulvodynia, unspecified"
+"Organ or tissue replaced by other means, heart assist device"
+Atrial fibrillation and flutter
+Retinal dystrophy in other systemic disorders and syndromes
+Screening for malignant neoplasms of bladder
+Edema
+"Other psychological or physical stress, not elsewhere classified"
+Encounter for antineoplastic chemotherapy and immunotherapy
+Retinal ischemia
+Routine general medical examination at a health care facility
+Monocular exotropia with A pattern
+Esophageal hemorrhage
+Closed fracture of coronoid process of ulna
+Personal history of malignant neoplasm of breast
+Personal history of malignant neoplasm of breast
+"Lagophthalmos, unspecified"
+Recurrent cholesteatoma of postmastoidectomy cavity
+Calculus of kidney
+Screening examination for unspecified bacterial and spirochetal diseases
+Acquired deformity of pelvis
+Routine general medical examination at a health care facility
+Supervision of high-risk pregnancy with elderly primigravida
+Routine general medical examination at a health care facility
+Sciatica
+"Paranoid type schizophrenia, unspecified"
+"Diabetes mellitus complicating pregnancy, childbirth, or the puerperium"
+Juvenile osteochondrosis of hip and pelvis
+Chronic viral hepatitis B without mention of hepatic coma without mention of hepatitis delta
+Neoplasm of uncertain behavior of breast
+Retinal ischemia
+Central serous retinopathy
+"Enthesopathy of elbow, unspecified"
+Postdysenteric arthropathy
+Screening for malignant neoplasms of cervix
+"Socialized conduct disorder, unspecified"
+Other and unspecified disorders of bone and cartilage
+Displacement of thoracic or lumbar intervertebral disc without myelopathy
+Special screening examination for Human papillomavirus (HPV)
+Open dislocation of elbow
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+"Schmorl's nodes, unspecified region"
+Leukoplakia of vagina
+Mixed receptive-expressive language disorder
+"Body Mass Index 39.0-39.9, adult"
+Supervision of high-risk pregnancy with history of trophoblastic disease
+Persistent disorder of initiating or maintaining sleep
+Closed fracture of upper end of fibula with tibia
+Retinal exudates and deposits
+Open fracture of coronoid process of ulna
+Pathological gambling
+Edema
+Primary pulmonary hypertension
+Chondromalacia
+Other behavioral problems
+Central retinal artery occlusion
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Special screening examination for other specified viral diseases
+Fitting and adjustment of hearing aid
+"Drug dependence of mother, delivered, with mention of postpartum complication"
+Ureteral fistula
+Carcinoma in situ of other and unspecified female genital organs
+Need for prophylactic vaccination and inoculation against diptheria-tetanus- pertussis with typhoid-paratyphoid (DTP + TAB)
+Edema
+"Major depressive affective disorder, recurrent episode, severe, specified as with psychotic behavior"
+Contact dermatitis and other eczema due to other specified agents
+Gouty nephropathy
+Attention to dressings and sutures
+Retinal exudates and deposits
+Neoplasm of uncertain behavior of breast
+Screening examination for malignant neoplasms of the breast
+"Ulcer of lower limb, unspecified"
+Neoplasm of uncertain behavior of other and unspecified parts of nervous system
+Polycythemia vera
+Agenesis of uterus
+"Organ or tissue replaced by other means, heart assist device"
+"Major depressive affective disorder, recurrent episode, unspecified"
+"Pressure ulcer, stage I"
+Carcinoma in situ of other and unspecified female genital organs
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Profound intellectual disabilities
+Special screening examination for other specified viral diseases
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+Screening for malignant neoplasms of bladder
+"Enthesopathy of elbow, unspecified"
+Ulcer of esophagus
+Subjective visual disturbances
+"Pain in joint, multiple sites"
+Retinal arterial branch occlusion
+Mechanical complication due to intrauterine contraceptive device
+Screening for malignant neoplasms of cervix
+"Sedative, hypnotic or anxiolytic dependence, unspecified"
+Open fracture of coronoid process of ulna
+Acquired deformities of hip
+"Major depressive affective disorder, recurrent episode, unspecified"
+Primary thrombocytopenia
+Neutropenia
+"Cannabis dependence, unspecified"
+"Cannabis abuse, unspecified"
+"Retroverted and incarcerated gravid uterus, delivered, with mention of postpartum complication"
+"Other psychological or physical stress, not elsewhere classified"
+Lethal midline granuloma
+Genetic counseling and testing on procreative management
+Diverticula of colon
+Screening for malignant neoplasms of cervix
+Edema
+"Cannabis dependence, unspecified"
+Other and unspecified disorders of bone and cartilage
+Primary central sleep apnea
+Special screening examination for Human papillomavirus (HPV)
+Colostomy status
+Breast replacement
+Central retinal artery occlusion
+Person awaiting admission to adequate facility elsewhere
+"Mental disorders complicating pregnancy, childbirth, or the puerperium"
+"Nonallopathic lesions, abdomen and other sites"
+Other antenatal screening based on amniocentesis
+Retinal arterial branch occlusion
+"Screening for other and unspecified endocrine, nutritional, metabolic, and immunity disorders"
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+Cellulitis and abscess of upper arm and forearm
+Pancreas replaced by transplant
+Screening for malignant neoplasms of cervix
+Esophageal hemorrhage
+Special screening examination for Human papillomavirus (HPV)
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Primary pulmonary hypertension
+Exposure to SARS-associated coronavirus
+Malignant neoplasm of laryngeal cartilages
+"Major depressive affective disorder, recurrent episode, severe, specified as with psychotic behavior"
+Attention to dressings and sutures
+Sciatica
+Routine general medical examination at a health care facility
+Screening for malignant neoplasms of bladder
+Oval window fistula
+Autosomal deletion syndromes
+Separation anxiety disorder
+Communicating hydrocephalus
+Routine general medical examination at a health care facility
+Heart replaced by other means
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Inconclusive mammogram
+"Abdominal aneurysm, ruptured"
+Cellulitis and abscess of upper arm and forearm
+"Cocaine dependence, unspecified"
+Acquired deformity of pelvis
+"General psychiatric examination, other and unspecified"
+Screening for malignant neoplasms of cervix
+Postgastric surgery syndromes
+Retrobulbar neuritis (acute)
+Orbital periostitis
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+Primary thrombocytopenia
+Oval window fistula
+Suicidal ideation
+Acute suppurative otitis media without spontaneous rupture of eardrum
+Old vaginal laceration
+Abnormality in fetal heart rate or rhythm during labor
+"Major depressive affective disorder, recurrent episode, moderate"
+"Late vomiting of pregnancy, delivered, with or without mention of antepartum condition"
+"Previous cesarean delivery, delivered, with or without mention of antepartum condition"
+Persistent disorder of initiating or maintaining sleep
+"Other anomalies of larynx, trachea, and bronchus"
+Special screening examination for Human papillomavirus (HPV)
+Other organ or tissue replaced by other means
+Chronic pain
+Personal history of malignant neoplasm of breast
+Pre-operative cardiovascular examination
+"Circadian rhythm sleep disorder, delayed sleep phase type"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Retinal arterial branch occlusion
+Acute petrositis
+"Chest pain, unspecified"
+"Exotropia, unspecified"
+Acute combined systolic and diastolic heart failure
+Closed fracture of upper end of fibula with tibia
+Screening for malignant neoplasms of cervix
+"Neural hearing loss, bilateral"
+"Arthropathy associated with other infectious and parasitic diseases, upper arm"
+"Blood transfusion, without reported diagnosis"
+Other specified anomalies of circulatory system
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, antepartum condition or complication"
+Routine general medical examination at a health care facility
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Subendocardial infarction, subsequent episode of care"
+Acute combined systolic and diastolic heart failure
+Erythromelalgia
+Acute appendicitis with generalized peritonitis
+"Abdominal aneurysm, ruptured"
+Atrial fibrillation
+Lagophthalmos
+Hypoactive sexual desire disorder
+Profound intellectual disabilities
+Quadriplegia and quadriparesis
+Retinal exudates and deposits
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+Cor triatriatum
+"Tuberculosis of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with mention of postpartum complication"
+Mallet finger
+"Esotropia, unspecified"
+"Abdominal aneurysm, ruptured"
+Disturbances of sensation of smell and taste
+Low grade myelodysplastic syndrome lesions
+Background diabetic retinopathy
+Other and unspecified extrapyramidal diseases and abnormal movement disorders
+Colostomy status
+Obstructive sleep apnea (adult)(pediatric)
+"Chronic kidney disease, Stage III (moderate)"
+Other mental problems
+Pathological gambling
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Person feigning illness
+"Diabetes with ketoacidosis, type I [juvenile type], not stated as uncontrolled"
+Cystic fibrosis without mention of meconium ileus
+"Congenital abnormalities of uterus complicating pregnancy, childbirth, or the puerperium"
+Agenesis of uterus
+Heart replaced by other means
+"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+Monocular exotropia with A pattern
+Screening for malignant neoplasms of cervix
+Special screening examination for Human papillomavirus (HPV)
+Secondary parkinsonism
+"Cannabis abuse, unspecified"
+Heart replaced by other means
+Screening for malignant neoplasms of bladder
+Person awaiting admission to adequate facility elsewhere
+"Chronic obstructive asthma, unspecified"
+Unspecified viral hepatitis C with hepatic coma
+Acute combined systolic and diastolic heart failure
+Edema
+"Fracture of upper end of tibia and fibula, closed"
+"Tuberculosis of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with mention of postpartum complication"
+Polycythemia vera
+"Outcome of delivery, twins, one liveborn and one stillborn"
+"Other infections involving bone in diseases classified elsewhere, upper arm"
+Monocular exotropia with A pattern
+"Opioid type dependence, continuous"
+Screening for malignant neoplasms of bladder
+"Other anomalies of larynx, trachea, and bronchus"
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Screening for malignant neoplasms of bladder
+"Carcinoma in situ, vagina"
+Other specified anomalies of circulatory system
+Carpal tunnel syndrome
+Inconclusive mammogram
+"Injury to duodenum, without open wound into cavity"
+"Alcohol abuse, continuous"
+Chondromalacia
+Aphasia
+"Fracture of upper end of tibia and fibula, closed"
+Unspecified abortion complicated by damage to pelvic organs or tissues
+"Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, antepartum condition or complication"
+"Chest pain, unspecified"
+Coronary atherosclerosis of bypass graft (artery) (vein) of transplanted heart
+Screening for malignant neoplasms of bladder
+Esophageal reflux
+Attention deficit disorder with hyperactivity
+Sprain of neck
+"Chronic osteomyelitis, site unspecified"
+Panniculitis specified as affecting neck
+Routine general medical examination at a health care facility
+Breast replacement
+"Chronic obstructive asthma, unspecified"
+Retinal arterial branch occlusion
+Inconclusive mammogram
+Attention to dressings and sutures
+"Other specified vaccinations against hemophilus influenza, type B [Hib]"
+Aphasia
+"Postlaminectomy syndrome, lumbar region"
+Screening for malignant neoplasms of cervix
+Erythromelalgia
+Mitral valve disorders
+Congenital other anomalies of lung
+Sprain of sacrum
+Routine general medical examination at a health care facility
+Low birth weight status
+Polycythemia vera
+Routine general medical examination at a health care facility
+Breast replacement
+Personal history of malignant neoplasm of breast
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+Screening for ear diseases
+Screening for malignant neoplasms of bladder
+Septicemia due to escherichia coli [E. coli]
+Serous detachment of retinal pigment epithelium
+Dual sensory impairment
+"Aftercare following surgery of the sense organs, NEC"
+Encounter for removal of sutures
+Newborn health supervision
+Neutropenia
+"Intermittent heterotropia, unspecified"
+"Tuberculosis of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with mention of postpartum complication"
+"Body Mass Index between 30-39, adult"
+Benign neoplasm of colon
+Cervicalgia
+"Tuberculosis of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with mention of postpartum complication"
+Eosinophilia
+Screening examination for malignant neoplasms of the breast
+Noise-induced hearing loss
+Screening for ear diseases
+"Other specified transient mental disorders due to conditions classified elsewhere, other"
+"Enthesopathy of elbow, unspecified"
+Headache associated with sexual activity
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+Screening for malignant neoplasms of bladder
+Atrial flutter
+"Closed dislocation of interphalangeal (joint), hand"
+Special screening examination for other specified viral diseases
+Supervision of high-risk pregnancy with elderly primigravida
+Screening for malignant neoplasms of cervix
+Retinal arterial branch occlusion
+Need for prophylactic vaccination and inoculation against diptheria-tetanus- pertussis with typhoid-paratyphoid (DTP + TAB)
+Special screening examination for Human papillomavirus (HPV)
+"Intermittent esotropia, monocular"
+Disturbance of skin sensation
+"Interpersonal problems, not elsewhere classified"
+Narcissistic personality disorder
+"Abdominal aneurysm, ruptured"
+Routine general medical examination at a health care facility
+Dementia with lewy bodies
+Routine general medical examination at a health care facility
+Screening for malignant neoplasms of bladder
+Other organ or tissue replaced by other means
+Monocular exotropia with A pattern
+Vascular hamartomas
+Corneal disorder due to contact lens
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+Vascular hamartomas
+Nonunion of fracture
+"Other venereal diseases in the mother complicating pregnancy, childbirth, or the puerperium"
+Screening for malignant neoplasms of cervix
+"Cannabis abuse, unspecified"
+Open fracture of coronoid process of ulna
+"Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, antepartum condition or complication"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Myocarditis, unspecified"
+Transient tic disorder
+"Other anomalies of larynx, trachea, and bronchus"
+Other developmental speech or language disorder
+"Other psychological or physical stress, not elsewhere classified"
+Acquired deformity of neck
+Rosacea conjunctivitis
+Raynaud's syndrome
+Pathological gambling
+"Cocaine abuse, unspecified"
+Larynx replacement
+Pre-operative cardiovascular examination
+Routine general medical examination at a health care facility
+Interstitial emphysema
+"Other anomalies of larynx, trachea, and bronchus"
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Salmonella meningitis
+Aortic aneurysm of unspecified site without mention of rupture
+Gastric mucosal hypertrophy
+Neoplasm of uncertain behavior of paraganglia
+History of extracorporeal membrane oxygenation (ECMO)
+Screening examination for malignant neoplasms of the breast
+Other primary thrombocytopenia
+Pain in joint
+Abnormal loss of weight and underweight
+Screening for malignant neoplasms of cervix
+"Organ or tissue replaced by other means, heart assist device"
+Atrial fibrillation
+Unspecified chronic liver disease without mention of alcohol
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+Encounter for removal of sutures
+"Organ or tissue replaced by other means, heart assist device"
+Issue of medical certificates
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+Contact dermatitis and other eczema due to drugs and medicines in contact with skin
+Attention deficit disorder of childhood
+Profound intellectual disabilities
+Heart replaced by other means
+Juvenile osteochondrosis of upper extremity
+Heart replaced by other means
+Rash and other nonspecific skin eruption
+"Acute sinusitis, unspecified"
+Retinal ischemia
+Pathological gambling
+Atrial fibrillation
+Retinal dystrophy in other systemic disorders and syndromes
+Issue of medical certificates
+Monocular exotropia with A pattern
+Other general medical examination for administrative purposes
+Overexertion and strenuous and repetitive movements or loads
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+Juvenile osteochondrosis of hip and pelvis
+Acute dystonia due to drugs
+Oval window fistula
+"Pain in joint, multiple sites"
+"Schizoaffective disorder, unspecified"
+Breast replacement
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Other organ or tissue replaced by other means
+Profound intellectual disabilities
+Erythromelalgia
+"Other tear of cartilage or meniscus of knee, current"
+Erythromelalgia
+"Schmorl's nodes, unspecified region"
+Benign neoplasm of short bones of lower limb
+"Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, delivered, with or without mention of antepartum condition"
+"Nephritis and nephropathy, not specified as acute or chronic, with unspecified pathological lesion in kidney"
+Routine general medical examination at a health care facility
+Nonunion of fracture
+Carcinoma in situ of other and unspecified female genital organs
+Acquired spondylolisthesis
+"Chronic obstructive asthma, unspecified"
+"Other and unspecified intracranial hemorrhage following injury, without mention of open intracranial wound"
+Attention to dressings and sutures
+Personal history of malignant neoplasm of breast
+Calculus of kidney
+Special screening examination for Human papillomavirus (HPV)
+"Cannabis abuse, unspecified"
+Unspecified anomaly of ear
+Neoplasm of uncertain behavior of skin
+Accident due to lightning
+Persistent disorder of initiating or maintaining sleep
+Cervicalgia
+High altitude periodic breathing
+Primary central sleep apnea
+Pathological gambling
+"Injury to colon, unspecified site, with open wound into cavity"
+Personal history of malignant neoplasm of breast
+Other organ or tissue replaced by other means
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition"
+Acute alcoholic hepatitis
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Hemiplegia/hemiparesis as late effect of cerebrovascular disease
+Hormones and synthetic substitutes causing adverse effects in therapeutic use
+Diplegia of upper limbs
+Low grade myelodysplastic syndrome lesions
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, unspecified as to episode of care or not applicable"
+Orofacial dyskinesia
+"Pain in joint, multiple sites"
+Other specified nonteratogenic anomalies
+"Nonallopathic lesions, sacral region"
+Retinal arterial branch occlusion
+Hemolytic disease of fetus or newborn due to other and unspecified isoimmunization
+"Closed dislocation, lumbar vertebra"
+Sprain of sacrotuberous (ligament)
+Postprocedural aspiration pneumonia
+Exposure to SARS-associated coronavirus
+Low grade myelodysplastic syndrome lesions
+Other organ or tissue replaced by other means
+Retinal arterial branch occlusion
+Other specified examinations
+"Keratoderma, acquired"
+"Abdominal or pelvic swelling, mass, or lump"
+Person awaiting admission to adequate facility elsewhere
+Dementia with lewy bodies
+"Other venereal diseases in the mother complicating pregnancy, childbirth, or the puerperium"
+Acquired deformity of neck
+Special screening examination for Human papillomavirus (HPV)
+"Tuberculosis of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with mention of postpartum complication"
+Observation for suspected mental condition
+Personal history of malignant neoplasm of breast
+Spasm of muscle
+Retinal ischemia
+Other hypothermia of newborn
+Rosacea conjunctivitis
+"Scoliosis [and kyphoscoliosis], idiopathic"
+"Major depressive affective disorder, recurrent episode, severe, specified as with psychotic behavior"
+Routine general medical examination at a health care facility
+"Other specified vaccinations against hemophilus influenza, type B [Hib]"
+Persistent disorder of initiating or maintaining sleep
+Screening for malignant neoplasms of bladder
+"Tobacco use disorder complicating pregnancy, childbirth, or the puerperium"
+"Disorders of impulse control, not elsewhere classified"
+"Diabetes with peripheral circulatory disorders, type II or unspecified type, not stated as uncontrolled"
+Edema
+Moderate intellectual disabilities
+Low grade myelodysplastic syndrome lesions
+Special screening examination for Human papillomavirus (HPV)
+"Other anomalies of larynx, trachea, and bronchus"
+"Other multiple birth (three or more), unspecified whether mates liveborn or stillborn, born outside of hospital"
+Atrial fibrillation
+Atrial fibrillation
+Other mental problems
+Menstrual extraction
+Neoplasm of uncertain behavior of connective and other soft tissue
+"Viral hepatitis B with hepatic coma, acute or unspecified, with hepatitis delta"
+"Screening for other and unspecified endocrine, nutritional, metabolic, and immunity disorders"
+Long-term (current) use of other medications
+Hemopericardium
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Person awaiting admission to adequate facility elsewhere
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+Other mental problems
+Agoraphobia with panic disorder
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Intermittent heterotropia, unspecified"
+"Disorders of impulse control, not elsewhere classified"
+Open fracture of coronoid process of ulna
+Persistent disorder of initiating or maintaining sleep
+Obstructive sleep apnea (adult)(pediatric)
+Benign intracranial hypertension
+Serous detachment of retinal pigment epithelium
+Pain in joint
+Personal history of malignant neoplasm of breast
+Other valgus deformities of feet
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+"Other anomalies of larynx, trachea, and bronchus"
+Nonunion of fracture
+"Exotropia, unspecified"
+Cough
+"Retroverted and incarcerated gravid uterus, delivered, with mention of postpartum complication"
+Routine general medical examination at a health care facility
+Ulcer of calf
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+"Diabetes mellitus complicating pregnancy, childbirth, or the puerperium"
+Non-autoimmune hemolytic anemias
+Acute serous otitis media
+Abnormalities of the hair
+Abnormality of gait
+"Lagophthalmos, unspecified"
+Nonunion of fracture
+Quadriplegia and quadriparesis
+Screening examination for measles
+Chronic tubotympanic suppurative otitis media
+Monocular exotropia with A pattern
+Persistent vomiting
+"Closed fracture of shaft of radius or ulna, unspecified"
+Rosacea conjunctivitis
+Person feigning illness
+Benign neoplasm of lower jaw bone
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition"
+Malignant neoplasm of anterior wall of nasopharynx
+Observation for suspected mental condition
+"Pain in joint, multiple sites"
+Acquired deformity of neck
+Lack of expected normal physiological development in childhood
+Lumbago
+Neoplasm of uncertain behavior of placenta
+Sprains and strains of unspecified site of hip and thigh
+Special screening examination for unspecified viral disease
+Neoplasm of uncertain behavior of placenta
+Special screening examination for Human papillomavirus (HPV)
+"Organ or tissue replaced by other means, fully implantable artificial heart"
+Erythromelalgia
+"Pain in joint, multiple sites"
+Personal history of tobacco use
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+"Tuberculosis of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with mention of postpartum complication"
+Person awaiting admission to adequate facility elsewhere
+Special screening examination for other specified viral diseases
+Larynx replacement
+"Intermittent heterotropia, unspecified"
+Coracohumeral (ligament) sprain
+"Closed dislocation of interphalangeal (joint), hand"
+Lagophthalmos
+Lens replaced by other means
+Other acquired deformities of finger
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+Other chest pain
+"Injury to stomach, without mention of open wound into cavity"
+Personal history of malignant neoplasm of breast
+Procedure not carried out for other reasons
+Pathological gambling
+Chyluria
+Monocular exotropia with A pattern
+Chronic obstructive asthma with status asthmaticus
+Circadian rhythm sleep disorder
+Edema
+Personal history of malignant neoplasm of breast
+Accident due to lightning
+Serous detachment of retinal pigment epithelium
+"Paralysis, unspecified"
+"Pain in joint, site unspecified"
+"Disorders of impulse control, not elsewhere classified"
+Retinal arterial branch occlusion
+Screening for malignant neoplasms of bladder
+Reflex sympathetic dystrophy
+Angiodysplasia of stomach and duodenum without mention of hemorrhage
+Erythromelalgia
+Headache associated with sexual activity
+"Pain in joint, site unspecified"
+Edema
+Angiodysplasia of stomach and duodenum without mention of hemorrhage
+Nonspecific abnormal findings in amniotic fluid
+"Paranoid type schizophrenia, unspecified"
+Personal history of malignant neoplasm of breast
+Other specified anomalies of circulatory system
+Diverticula of colon
+Retinal exudates and deposits
+Overexertion and strenuous and repetitive movements or loads
+"Socialized conduct disorder, mild"
+Special screening examination for Human papillomavirus (HPV)
+"Drug dependence of mother, delivered, with mention of postpartum complication"
+Delayed milestones
+"Other anomalies of larynx, trachea, and bronchus"
+Corneal disorder due to contact lens
+"Enthesopathy of elbow, unspecified"
+"Benign neoplasm of ribs, sternum, and clavicle"
+Postherpetic trigeminal neuralgia
+Edema
+"Alcohol abuse, continuous"
+Person awaiting admission to adequate facility elsewhere
+"Schmorl's nodes, unspecified region"
+Budd-chiari syndrome
+Chronic viral hepatitis B without mention of hepatic coma without mention of hepatitis delta
+Nonspecific abnormal findings in amniotic fluid
+Disturbances of sensation of smell and taste
+"Other anomalies of larynx, trachea, and bronchus"
+Deficiencies of internal organs
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Ulcer of esophagus
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Neoplasm of uncertain behavior of pineal gland
+Hemopericardium
+Carcinoma in situ of cervix uteri
+"Fetal distress before onset of labor, in liveborn infant"
+"Intermittent heterotropia, unspecified"
+Malignant neoplasm of transverse colon
+Personal history of malignant neoplasm of breast
+Heart replaced by other means
+Marfan syndrome
+Special screening examination for Human papillomavirus (HPV)
+Cri-du-chat syndrome
+Retinal ischemia
+"Chronic obstructive asthma, unspecified"
+"Acute nonsuppurative otitis media, unspecified"
+"Hemoptysis, unspecified"
+Neoplasm of uncertain behavior of connective and other soft tissue
+Aneurysm of other specified artery
+Corneal disorder due to contact lens
+"Benign neoplasm of ribs, sternum, and clavicle"
+Edema
+Special screening examination for Human papillomavirus (HPV)
+Thyrotoxic exophthalmos
+"Tuberculosis of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with mention of postpartum complication"
+Other iatrogenic hypothyroidism
+"Urinary tract infection, site not specified"
+Pathological gambling
+"Diabetes with ketoacidosis, type II or unspecified type, not stated as uncontrolled"
+Idiopathic hypersomnia with long sleep time
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition"
+Neoplasm of unspecified nature of digestive system
+Profound intellectual disabilities
+Personal history of malignant neoplasm of breast
+"Diabetes mellitus complicating pregnancy, childbirth, or the puerperium"
+"Cocaine dependence, unspecified"
+Hormones and synthetic substitutes causing adverse effects in therapeutic use
+Screening for malignant neoplasms of cervix
+Special screening examination for Human papillomavirus (HPV)
+Reflex sympathetic dystrophy
+"Chest pain, unspecified"
+Motor problems with limbs
+Retinal dystrophy in other systemic disorders and syndromes
+Request for expert evidence
+Avoidant personality disorder
+Encounter for routine screening for malformation using ultrasonics
+Lack of coordination
+Velo-cardio-facial syndrome
+Esophageal hemorrhage
+Inconclusive mammogram
+Supervision of high-risk pregnancy with elderly primigravida
+"Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, antepartum condition or complication"
+Carcinoma in situ of other and unspecified female genital organs
+Colostomy status
+"Schmorl's nodes, unspecified region"
+"Major depressive affective disorder, recurrent episode, moderate"
+Screening examination for poliomyelitis
+"Drug dependence of mother, unspecified as to episode of care or not applicable"
+Screening examination for malignant neoplasms of the breast
+Erythromelalgia
+Cri-du-chat syndrome
+Neutropenia
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+Monocular exotropia with A pattern
+Attention to dressings and sutures
+Corneal disorder due to contact lens
+Open fracture of upper end of tibia alone
+Screening for malignant neoplasms of bladder
+"Chronic obstructive asthma, unspecified"
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+Personal history of malignant neoplasm of breast
+"Conjunctivitis, unspecified"
+"Fracture of upper end of tibia and fibula, open"
+"Intermittent heterotropia, unspecified"
+"Late effects of cerebrovascular disease, monoplegia of lower limb affecting nondominant side"
+Breast replacement
+"Organ or tissue replaced by other means, heart assist device"
+Serous detachment of retinal pigment epithelium
+Erythromelalgia
+Abscess of salivary gland
+Personal history of diseases of skin and subcutaneous tissue
+"Nonallopathic lesions, abdomen and other sites"
+Retinal arterial branch occlusion
+Kidney replaced by transplant
+Angiodysplasia of stomach and duodenum without mention of hemorrhage
+Retinal ischemia
+Hormones and synthetic substitutes causing adverse effects in therapeutic use
+Special screening examination for Human papillomavirus (HPV)
+"Diabetes with peripheral circulatory disorders, type II or unspecified type, not stated as uncontrolled"
+Other chest pain
+"Dislocation of patella, closed"
+Supervision of high-risk pregnancy with elderly primigravida
+"Viral hepatitis B with hepatic coma, acute or unspecified, with hepatitis delta"
+"Paranoid type schizophrenia, unspecified"
+Juvenile osteochondrosis of hip and pelvis
+Motor problems with limbs
+Rosacea conjunctivitis
+Edema
+"Acute nonsuppurative otitis media, unspecified"
+Acquired deformity of neck
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+Routine general medical examination at a health care facility
+Routine general medical examination at a health care facility
+Edema
+Observation for suspected mental condition
+Rosacea conjunctivitis
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Sedative, hypnotic or anxiolytic dependence, unspecified"
+"Cocaine dependence, unspecified"
+Calcium deposits in tendon and bursa
+Acute alcoholic hepatitis
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Coronary atherosclerosis
+Do not resuscitate status
+"Enthesopathy of elbow, unspecified"
+Screening for malignant neoplasms of bladder
+Unspecified obstructive defect of renal pelvis and ureter
+Other and unspecified disorders of bone and cartilage
+Congenital musculoskeletal deformities of spine
+Personal history of malignant neoplasm of breast
+Other specified nonteratogenic anomalies
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+"Single liveborn, born in hospital"
+Localized adiposity
+Vascular hamartomas
+Screening examination for measles
+Attention to dressings and sutures
+Wheelchair dependence
+Monocular exotropia with A pattern
+Routine general medical examination at a health care facility
+Other organ or tissue replaced by other means
+"General psychiatric examination, other and unspecified"
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+Deficiencies of head
+"Nephritis and nephropathy, not specified as acute or chronic, with lesion of membranoproliferative glomerulonephritis"
+Panhypopituitarism
+Selective mutism
+Chronic pain
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Chronic pain
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Erythromelalgia
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Closed fracture of shaft of radius or ulna, unspecified"
+Neoplasm of uncertain behavior of placenta
+Neoplasm of uncertain behavior of skin
+Personal history of malignant neoplasm of other respiratory and intrathoracic organs
+Retinal dystrophy in other systemic disorders and syndromes
+Monocular exotropia with A pattern
+"Open dislocation, thoracic and lumbar vertebra"
+Pre-operative cardiovascular examination
+Dementia with lewy bodies
+Agenesis of uterus
+"Hemoptysis, unspecified"
+Personal history of malignant neoplasm of breast
+Observation for suspected mental condition
+Personal history of malignant neoplasm of breast
+Genetic counseling and testing on procreative management
+Open fracture of coronoid process of ulna
+Reflex sympathetic dystrophy
+Vascular hamartomas
+Reflex sympathetic dystrophy
+Monocular exotropia with A pattern
+Other organ or tissue replaced by other means
+Retinal exudates and deposits
+Personal history of malignant neoplasm of breast
+Failure to thrive
+"Fracture of upper end of tibia and fibula, closed"
+"Organ or tissue replaced by other means, heart assist device"
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+Long-term (current) use of other medications
+"Injury to small intestine, unspecified site, without open wound into cavity"
+Screening examination for diphtheria
+Noise-induced hearing loss
+"Dislocation of patella, closed"
+Observation for suspected mental condition
+Erythromelalgia
+Lethal midline granuloma
+Acute combined systolic and diastolic heart failure
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+"Breast screening, unspecified"
+Special screening examination for Human papillomavirus (HPV)
+"Arthropathy associated with other infectious and parasitic diseases, upper arm"
+Other organ or tissue replaced by other means
+Lagophthalmos
+"Urinary tract infection, site not specified"
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+Pathological gambling
+Other organ or tissue replaced by other means
+"Other anomalies of larynx, trachea, and bronchus"
+Open anterior dislocation of elbow
+Esophagitis
+"Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, antepartum condition or complication"
+Personal history of malignant neoplasm of breast
+Other developmental speech or language disorder
+"Alcohol abuse, continuous"
+Accident due to lightning
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Other dependence on machines, supplemental oxygen"
+"Pressure ulcer, unspecified stage"
+Edema
+Retinal dystrophy in other systemic disorders and syndromes
+Accident due to lightning
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Esophageal reflux
+Chronic pain
+"Other anomalies of larynx, trachea, and bronchus"
+Personal history of disorders of urinary system
+Aortic aneurysm of unspecified site without mention of rupture
+"Hemoptysis, unspecified"
+Sedatives and hypnotics causing adverse effects in therapeutic use
+Edema
+Retinal exudates and deposits
+Aphasia
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+"Body Mass Index between 30-39, adult"
+Routine infant or child health check
+Neoplasm of uncertain behavior of breast
+Specific infections by free-living amebae
+Special screening examination for Human papillomavirus (HPV)
+Edema
+Retinal dystrophy in other systemic disorders and syndromes
+Deficiencies of head
+Malignant neoplasm of transverse colon
+Neoplasm of uncertain behavior of placenta
+Screening for thyroid disorders
+Cervical spondylosis with myelopathy
+Other acquired deformities of finger
+"Other dependence on machines, supplemental oxygen"
+Colostomy status
+"Drug dependence of mother, delivered, with mention of postpartum complication"
+"Other venereal diseases in the mother complicating pregnancy, childbirth, or the puerperium"
+Narcolepsy
+Other and unspecified disorders of bone and cartilage
+Acquired deformity of pelvis
+Identity disorder of childhood or adolescence
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Cervical rib
+Other screening mammogram
+"Outcome of delivery, twins, one liveborn and one stillborn"
+Phobic disorders
+Routine general medical examination at a health care facility
+Cri-du-chat syndrome
+"Other anomalies of larynx, trachea, and bronchus"
+Background diabetic retinopathy
+"Other infections involving bone in diseases classified elsewhere, upper arm"
+"Other psychological or physical stress, not elsewhere classified"
+Cervicalgia
+Retinal dystrophy in other systemic disorders and syndromes
+Other specified peripheral vascular diseases
+Hormones and synthetic substitutes causing adverse effects in therapeutic use
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Persistent disorder of initiating or maintaining sleep
+Breast replacement
+Contact with and (suspected) exposure to algae bloom
+Retinal hemorrhage
+Other behavioral problems
+"Drug dependence of mother, delivered, with mention of postpartum complication"
+Painful respiration
+Nonunion of fracture
+Breast replacement
+Observation for suspected mental condition
+Personal history of malignant neoplasm of breast
+"Other malignant lymphomas, lymph nodes of inguinal region and lower limb"
+Supervision of high-risk pregnancy with history of infertility
+Suicidal ideation
+Deficiencies of neck and trunk
+Hormones and synthetic substitutes causing adverse effects in therapeutic use
+"Other malignant lymphomas, lymph nodes of inguinal region and lower limb"
+Screening for malignant neoplasms of cervix
+"Abdominal aneurysm, ruptured"
+Hyperacusis
+"Acute myocardial infarction of inferolateral wall, initial episode of care"
+Atherosclerosis of nonautologous biological bypass graft of the extremities
+Observation and evaluation for other specified suspected conditions
+Benign essential hypertension
+"Nephritis and nephropathy, not specified as acute or chronic, with other specified pathological lesion in kidney"
+Subacute combined degeneration of spinal cord in diseases classified elsewhere
+Orbital periostitis
+Rosacea conjunctivitis
+"Other anomalies of larynx, trachea, and bronchus"
+Pathologic fracture
+Hemiplegia/hemiparesis as late effect of cerebrovascular disease
+Open fracture of coronoid process of ulna
+Polycythemia vera
+Routine general medical examination at a health care facility
+Diastolic heart failure
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Persistent disorder of initiating or maintaining sleep
+Serous detachment of retinal pigment epithelium
+Other mental problems
+Pneumonia due to chlamydia
+Do not resuscitate status
+"Enthesopathy of elbow, unspecified"
+"Other psychological or physical stress, not elsewhere classified"
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+"Other dependence on machines, supplemental oxygen"
+Unspecified psychosis
+"Other psychological or physical stress, not elsewhere classified"
+Mitral valve disorders
+Other general medical examination for administrative purposes
+Other general medical examination for administrative purposes
+Persistent disorder of initiating or maintaining sleep
+"Abdominal aneurysm, ruptured"
+Other organ or tissue replaced by other means
+Routine general medical examination at a health care facility
+Hormones and synthetic substitutes causing adverse effects in therapeutic use
+"Drug dependence of mother, delivered, with mention of postpartum complication"
+Painful respiration
+Bulimia nervosa
+Acquired coagulation factor deficiency
+Placental transfusion syndromes affecting fetus or newborn
+"Tuberculosis of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with mention of postpartum complication"
+"Organ or tissue replaced by other means, heart assist device"
+Breast replacement
+"Closed dislocation, lumbar vertebra"
+Squamous cell carcinoma of skin of other and unspecified parts of face
+Screening for malignant neoplasms of bladder
+"Closed fracture of shaft of radius or ulna, unspecified"
+Rash and other nonspecific skin eruption
+Chronic pain
+"Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, antepartum condition or complication"
+"Organ or tissue replaced by other means, heart assist device"
+Other and unspecified disorders of bone and cartilage
+Screening examination for malignant neoplasms of the breast
+Displacement of thoracic or lumbar intervertebral disc without myelopathy
+Screening examination for measles
+"General psychiatric examination, other and unspecified"
+Special screening examination for Human papillomavirus (HPV)
+"Cannabis abuse, unspecified"
+Screening for developmental handicaps in early childhood
+Pathological gambling
+Contact with or exposure to cholera
+Retinal exudates and deposits
+Persistent disorder of initiating or maintaining sleep
+Perforation of bile duct
+Edema
+"Chest pain, unspecified"
+Screening for malignant neoplasms of cervix
+Neoplasm of uncertain behavior of other and unspecified female genital organs
+Edema
+Screening for malignant neoplasms of bladder
+"Other disorders of synovium, tendon, and bursa"
+Pathological gambling
+"Nonallopathic lesions, cervical region"
+"Active Ménière's disease, cochlear"
+Benign neoplasm of skin of other and unspecified parts of face
+Cervical rib
+Chondromalacia
+Sprain of sacrum
+"Sedative, hypnotic or anxiolytic dependence, unspecified"
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+Other and unspecified disorders of bone and cartilage
+Acute respiratory failure
+Special screening examination for Human papillomavirus (HPV)
+Lack of coordination
+"Other anomalies of larynx, trachea, and bronchus"
+Zoophilia
+Polycythemia vera
+"Major abnormality of bony pelvis, not further specified, in pregnancy, labor, and delivery"
+Autosomal deletion syndromes
+Breast replacement
+Special screening examination for Human papillomavirus (HPV)
+Screening for malignant neoplasms of cervix
+Other developmental speech or language disorder
+Coronary atherosclerosis
+Chronic pain
+"Falling from high place, undetermined whether accidentally or purposely inflicted"
+Other organ or tissue replaced by other means
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Screening for malignant neoplasms of cervix
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Bariatric surgery status
+"Cyst of kidney, acquired"
+Retinal exudates and deposits
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Screening examination for diphtheria
+Profound intellectual disabilities
+Monocular exotropia with A pattern
+Neoplasm of uncertain behavior of placenta
+Personal history of malignant neoplasm of breast
+Esophageal hemorrhage
+Retinal dystrophy in other systemic disorders and syndromes
+"Other, multiple and ill-defined fractures of lower limb, closed"
+Chronic pain syndrome
+Other general medical examination for administrative purposes
+Special screening examination for Human papillomavirus (HPV)
+Other organ or tissue replaced by other means
+Special screening examination for other specified viral diseases
+Hormones and synthetic substitutes causing adverse effects in therapeutic use
+"Other psychological or physical stress, not elsewhere classified"
+Pre-operative cardiovascular examination
+Nonunion of fracture
+Mechanical and motor problems with neck and trunk
+Pulmonary collapse
+Cough
+Erythromelalgia
+"Organ or tissue replaced by other means, heart assist device"
+Neutropenia
+Acquired coagulation factor deficiency
+"Sedative, hypnotic or anxiolytic dependence, unspecified"
+Attention to dressings and sutures
+Screening for malignant neoplasms of cervix
+Vascular hamartomas
+"Cannabis dependence, unspecified"
+"Other anomalies of larynx, trachea, and bronchus"
+Cervical rib
+Neutropenia
+"Chronic obstructive asthma, unspecified"
+"Ulcer of lower limb, unspecified"
+Juvenile osteochondrosis of hip and pelvis
+Breast replacement
+"Unspecified complications of puerperium, delivered, with mention of postpartum complication"
+"Injury to small intestine, unspecified site, without open wound into cavity"
+Edema
+Other specified psychosexual disorders
+Vascular hamartomas
+"Multiple myeloma, in remission"
+"Drug dependence of mother, delivered, with mention of postpartum complication"
+Pneumonia due to chlamydia
+"Other anomalies of larynx, trachea, and bronchus"
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+Other specified nonteratogenic anomalies
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+"Other anomalies of larynx, trachea, and bronchus"
+"Other anomalies of larynx, trachea, and bronchus"
+Central retinal artery occlusion
+Cor triatriatum
+"Conjunctivitis, unspecified"
+Retinal exudates and deposits
+Larynx replacement
+Deficiencies of head
+Open fracture of coronoid process of ulna
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+Open fracture of upper end of fibula with tibia
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, antepartum condition or complication"
+"Tuberculosis of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with mention of postpartum complication"
+Monocular exotropia with A pattern
+Carrier or suspected carrier of cholera
+Benign intracranial hypertension
+"Intermittent heterotropia, unspecified"
+Asymptomatic human immunodeficiency virus [HIV] infection status
+"Outcome of delivery, twins, one liveborn and one stillborn"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Screening for malignant neoplasms of bladder
+Retinal exudates and deposits
+Other and unspecified disorders of bone and cartilage
+"Acute conjunctivitis, unspecified"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Chronic viral hepatitis B without mention of hepatic coma without mention of hepatitis delta
+"Lagophthalmos, unspecified"
+Screening examination for malignant neoplasms of the breast
+"Chest pain, unspecified"
+Other hypothermia of newborn
+Diverticulitis of colon (without mention of hemorrhage)
+"Diabetes with peripheral circulatory disorders, type II or unspecified type, not stated as uncontrolled"
+Retinal exudates and deposits
+"Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, antepartum condition or complication"
+Leukoplakia of vagina
+Routine general medical examination at a health care facility
+Orthopnea
+"Other complications of obstetrical surgical wounds, delivered, with mention of postpartum complication"
+Screening examination for diphtheria
+"Intermittent heterotropia, unspecified"
+Neoplasm of uncertain behavior of placenta
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Breast replacement
+Aneurysm of artery of lower extremity
+Need for prophylactic vaccination and inoculation against diptheria-tetanus- pertussis with poliomyelitis [DTP + polio]
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Vascular hamartomas
+Breast replacement
+Serous detachment of retinal pigment epithelium
+Subjective visual disturbances
+Screening for phenylketonuria (PKU)
+Other and unspecified disorders of bone and cartilage
+Person awaiting admission to adequate facility elsewhere
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, antepartum condition or complication"
+Secondary malignant neoplasm of other respiratory organs
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, unspecified as to episode of care or not applicable"
+Cervicalgia
+Personal history of malignant neoplasm of breast
+Personal history of tobacco use
+Pre-operative cardiovascular examination
+Breast replacement
+"Closed fracture of shaft of radius or ulna, unspecified"
+Rosacea conjunctivitis
+Autoimmune hemolytic anemias
+Personal history of malignant neoplasm
+Screening examination for unspecified viral disease
+Screening examination for malignant neoplasms of the breast
+Retinal arterial branch occlusion
+Other and unspecified disorders of bone and cartilage
+"Neural hearing loss, bilateral"
+Other causes of encephalitis and encephalomyelitis
+Special screening examination for other specified viral diseases
+Velo-cardio-facial syndrome
+Personal history of malignant neoplasm
+Screening for malignant neoplasms of bladder
+Chronic obstructive asthma with status asthmaticus
+Idiopathic peripheral autonomic neuropathy
+Juvenile osteochondrosis of upper extremity
+Reflex sympathetic dystrophy
+Pulmonary arteriovenous malformation
+Screening examination for measles
+Open fracture of coronoid process of ulna
+Herpetic ulceration of vulva
+Neoplasm of uncertain behavior of other and unspecified urinary organs
+Candidiasis of skin and nails
+"Body Mass Index between 30-39, adult"
+"Body Mass Index between 30-39, adult"
+Juvenile osteochondrosis of upper extremity
+Mechanical and motor problems with neck and trunk
+Person living alone
+Nonunion of fracture
+Screening for malignant neoplasms of bladder
+Angiodysplasia of stomach and duodenum without mention of hemorrhage
+Screening for malignant neoplasms of bladder
+Postherpetic trigeminal neuralgia
+Larynx replacement
+Other and unspecified disorders of bone and cartilage
+Long-term (current) use of other medications
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Other specified vaccinations against hemophilus influenza, type B [Hib]"
+"Disorders of impulse control, not elsewhere classified"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Retinal arterial branch occlusion
+Screening examination for measles
+Chondromalacia
+"Arthropathy associated with other infectious and parasitic diseases, upper arm"
+Quadriplegia and quadriparesis
+Unspecified viral hepatitis C with hepatic coma
+"Sudden hearing loss, unspecified"
+Chronic viral hepatitis B without mention of hepatic coma without mention of hepatitis delta
+"Nephritis and nephropathy, not specified as acute or chronic, with lesion of membranoproliferative glomerulonephritis"
+"Other psychological or physical stress, not elsewhere classified"
+Dementia with lewy bodies
+"Bipolar I disorder, most recent episode (or current) manic, severe, without mention of psychotic behavior"
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+Juvenile osteochondrosis of hip and pelvis
+Hormones and synthetic substitutes causing adverse effects in therapeutic use
+Genetic counseling and testing on procreative management
+Premenopausal menorrhagia
+"Primary thrombocytopenia,unspecified"
+Sprain of sacrum
+Low birth weight status
+Retinal exudates and deposits
+Personal history of malignant neoplasm of breast
+Entropion and trichiasis of eyelid
+"Body Mass Index between 30-39, adult"
+Autosomal deletion syndromes
+"Other malignant lymphomas, lymph nodes of inguinal region and lower limb"
+Coracohumeral (ligament) sprain
+Person awaiting admission to adequate facility elsewhere
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+"Other anomalies of larynx, trachea, and bronchus"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Drug dependence of mother, delivered, with mention of postpartum complication"
+"Chest pain, unspecified"
+Genetic counseling and testing on procreative management
+Neoplasm of uncertain behavior of skin
+Other specified nonteratogenic anomalies
+Larynx replacement
+"Cannabis abuse, unspecified"
+Special screening for osteoporosis
+Mechanical entropion
+"Tic disorder, unspecified"
+"Open wound of hand except finger(s) alone, complicated"
+Other and unspecified disorders of bone and cartilage
+Routine general medical examination at a health care facility
+Neoplasm of uncertain behavior of connective and other soft tissue
+"Other specified drug dependence, unspecified"
+Peritonitis (acute) generalized
+Polycythemia vera
+Other specified congenital anomalies of heart
+Coronary atherosclerosis of native coronary artery
+Colostomy status
+Long-term (current) use of antibiotics
+Acute combined systolic and diastolic heart failure
+Heart replaced by other means
+Esophageal hemorrhage
+Erythromelalgia
+Hemiplegia/hemiparesis as late effect of cerebrovascular disease
+Juvenile osteochondrosis of upper extremity
+Profound intellectual disabilities
+Angiodysplasia of stomach and duodenum without mention of hemorrhage
+"Acute conjunctivitis, unspecified"
+Monocular exotropia with A pattern
+Necrotizing fasciitis
+"Abdominal aneurysm, ruptured"
+Other reasons for seeking consultation
+Suicidal ideation
+Velo-cardio-facial syndrome
+"Unspecified abortion, complicated by damage to pelvic organs or tissues, complete"
+Exophoria
+Antineoplastic chemotherapy induced anemia
+"Other malignant lymphomas, lymph nodes of inguinal region and lower limb"
+Failed attempted abortion complicated by genital tract and pelvic infection
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+Accident due to lightning
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition"
+"Fracture of upper end of tibia and fibula, open"
+Other unknown and unspecified cause of morbidity and mortality
+Benign neoplasm of colon
+Supervision of high-risk pregnancy with elderly primigravida
+"Schmorl's nodes, unspecified region"
+Pneumonia due to chlamydia
+Postmenopausal atrophic vaginitis
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, unspecified as to episode of care or not applicable"
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+Contact with or exposure to poliomyelitis
+Abnormal loss of weight and underweight
+Other specified congenital anomalies of heart
+Other specified congenital anomalies of face and neck
+"Other anomalies of larynx, trachea, and bronchus"
+Talipes valgus
+Delayed delivery after artificial rupture of membranes
+Acute osteomyelitis
+Congenital musculoskeletal deformities of spine
+Motor problems with limbs
+Health supervision of foundling
+Congenital musculoskeletal deformities of spine
+Acquired deformity of neck
+Special screening examination for Human papillomavirus (HPV)
+Screening for malignant neoplasms of cervix
+Personal history of malignant neoplasm of breast
+Bariatric surgery status
+Hemorrhage and infarction of thyroid
+Lagophthalmos
+Heart replaced by other means
+Supervision of high-risk pregnancy with elderly primigravida
+Larynx replacement
+Ulcer of esophagus
+Apnea
+"Tobacco use disorder complicating pregnancy, childbirth, or the puerperium"
+Breast replacement
+Retinal arterial branch occlusion
+Monocular exotropia with A pattern
+"Open wound of nasal septum, without mention of complication"
+Chronic duodenal ileus
+Erythromelalgia
+Other mental problems
+Orofacial dyskinesia
+Hemopericardium
+Vascular hamartomas
+Screening for malignant neoplasms of cervix
+Atrial fibrillation
+Other ill-defined heart diseases
+Special investigations and examinations - Gynecological examination
+Ulcer of esophagus without bleeding
+Screening for malignant neoplasms of cervix
+"Hemoptysis, unspecified"
+"Nephritis and nephropathy, not specified as acute or chronic, with lesion of membranoproliferative glomerulonephritis"
+Routine general medical examination at a health care facility
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Lack of coordination
+"Tobacco use disorder complicating pregnancy, childbirth, or the puerperium"
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition"
+Observation for suspected tuberculosis
+"Drug dependence of mother, delivered, with mention of postpartum complication"
+Acute post-traumatic headache
+"Primary thrombocytopenia,unspecified"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Need for prophylactic vaccination and inoculation against tuberculosis [BCG]
+Atherosclerosis of native arteries of the extremities
+Open fracture of upper end of fibula with tibia
+Open fracture of upper end of fibula with tibia
+Encopresis
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+Need for prophylactic vaccination and inoculation against influenza
+Rheumatic heart failure (congestive)
+Nonunion of fracture
+"Mixed hearing loss, unspecified"
+Pathological gambling
+"Rupture of muscle, nontraumatic"
+Noise-induced hearing loss
+Juvenile osteochondrosis of upper extremity
+Mental and behavioral problems with learning
+"Cannabis abuse, unspecified"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Influenza with other respiratory manifestations
+Separation anxiety disorder
+"Fracture of upper end of tibia and fibula, open"
+Routine general medical examination at a health care facility
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+"Intermittent heterotropia, unspecified"
+"Rupture of muscle, nontraumatic"
+Mixed receptive-expressive language disorder
+Noise-induced hearing loss
+"Mixed hearing loss, unilateral"
+Tics of organic origin
+Accidental poisoning by tranquilizers
+Parent-child problems
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Rosacea conjunctivitis
+Juvenile osteochondrosis of upper extremity
+Velo-cardio-facial syndrome
+Neutropenia
+Retinal hemorrhage
+Retinal exudates and deposits
+Serous detachment of retinal pigment epithelium
+Chronic conjunctivitis
+Acute conjunctivitis
+Exophoria
+Overexertion and strenuous and repetitive movements or loads
+"Intermittent heterotropia, unspecified"
+"Bipolar disorder, unspecified"
+Certain types of iridocyclitis
+Personal history of malignant neoplasm of breast
+Orofacial dyskinesia
+"Pain in joint, multiple sites"
+Lack of expected normal physiological development in childhood
+Quadriplegia and quadriparesis
+Headache associated with sexual activity
+"Other psychological or physical stress, not elsewhere classified"
+Mechanical and motor problems with neck and trunk
+Other mental problems
+"Drug dependence of mother, delivered, with mention of postpartum complication"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Nonspecific abnormal findings in amniotic fluid
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Retroverted and incarcerated gravid uterus, delivered, with mention of postpartum complication"
+Other suppurative peritonitis
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, antepartum condition or complication"
+Vascular hamartomas
+Acquired deformity of pelvis
+"Drug dependence of mother, delivered, with mention of postpartum complication"
+"Schmorl's nodes, unspecified region"
+Umbilical hemorrhage after birth
+Special screening examination for Human papillomavirus (HPV)
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Postherpetic trigeminal neuralgia
+Need for prophylactic vaccination and inoculation against diptheria-tetanus- pertussis with poliomyelitis [DTP + polio]
+Postmenopausal atrophic vaginitis
+Specific infections by free-living amebae
+Postherpetic trigeminal neuralgia
+Routine general medical examination at a health care facility
+Screening examination for measles
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Displacement of thoracic or lumbar intervertebral disc without myelopathy
+"Chronic duodenal ulcer without mention of hemorrhage or perforation, with obstruction"
+"Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, antepartum condition or complication"
+"""Light-for-dates"" without mention of fetal malnutrition"
+"Diabetes mellitus complicating pregnancy, childbirth, or the puerperium"
+"Other complications of obstetrical surgical wounds, delivered, with mention of postpartum complication"
+Chronic pain
+Urogenital trichomoniasis
+"Other anomalies of larynx, trachea, and bronchus"
+"Abdominal tenderness, left upper quadrant"
+Special screening examination for Human papillomavirus (HPV)
+Secondary parkinsonism
+"Hemoptysis, unspecified"
+"Closed fracture of shaft of radius or ulna, unspecified"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Closed fracture of upper end of fibula with tibia
+Juvenile osteochondrosis of upper extremity
+"Drug dependence of mother, delivered, with mention of postpartum complication"
+"Injury to transverse colon, with open wound into cavity"
+Juvenile osteochondrosis of upper extremity
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Alcohol withdrawal delirium
+"Cocaine dependence, unspecified"
+"Acute conjunctivitis, unspecified"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Lagophthalmos
+Other behavioral problems
+Carrier or suspected carrier of cholera
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Other infections involving bone in diseases classified elsewhere, upper arm"
+Hormones and synthetic substitutes causing adverse effects in therapeutic use
+Ego-dystonic sexual orientation
+Larynx replacement
+Pathological gambling
+Juvenile osteochondrosis of hip and pelvis
+Breast replacement
+Serous detachment of retinal pigment epithelium
+Reflex sympathetic dystrophy
+Screening for developmental handicaps in early childhood
+Other organ or tissue replaced by other means
+"Obstetrical blood-clot embolism, delivered, with or without mention of antepartum condition"
+Subarachnoid hemorrhage following injury without mention of open intracranial wound
+Screening for malignant neoplasms of cervix
+Special investigations and examinations - Gynecological examination
+Retinal dystrophy in other systemic disorders and syndromes
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Closed fracture of shaft of radius or ulna, unspecified"
+Shared psychotic disorder
+"Open dislocation, thoracic and lumbar vertebra"
+"Injury to ureter, with open wound into cavity"
+Unspecified psychosis
+Open fracture of coronoid process of ulna
+Other organ or tissue replaced by other means
+"Paranoid type schizophrenia, unspecified"
+"Injury to small intestine, unspecified site, without open wound into cavity"
+Eye globe replaced by other means
+Retinal exudates and deposits
+"Body Mass Index between 30-39, adult"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Erythromelalgia
+Screening examination for diphtheria
+"Abdominal aneurysm, ruptured"
+Oval window fistula
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+"Other psychological or physical stress, not elsewhere classified"
+Special screening examination for Human papillomavirus (HPV)
+Ulcer of esophagus
+"Subendocardial infarction, subsequent episode of care"
+Unspecified essential hypertension
+Displacement of thoracic or lumbar intervertebral disc without myelopathy
+Acute appendicitis with peritoneal abscess
+Erythromelalgia
+Encounter for removal of sutures
+"Other anomalies of larynx, trachea, and bronchus"
+Screening examination for measles
+Person living alone
+Other specified congenital anomalies of heart
+Pediculus corporis [body louse]
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Other specified cestode infection
+Heart replaced by other means
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Screening for malignant neoplasms of bladder
+Personal history of malignant neoplasm of breast
+Other behavioral problems
+Dual sensory impairment
+Personal history of malignant neoplasm of breast
+Screening for malignant neoplasms of cervix
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Newborn health supervision
+"Scoliosis [and kyphoscoliosis], idiopathic"
+Herpes zoster with ophthalmic complications
+Screening for malignant neoplasms of cervix
+Attention to dressings and sutures
+Accident due to lightning
+Personal history of malignant neoplasm of breast
+Coracohumeral (ligament) sprain
+"Major depressive affective disorder, recurrent episode, unspecified"
+Other and unspecified disorders of bone and cartilage
+Unspecified viral hepatitis C with hepatic coma
+Juvenile osteochondrosis of hip and pelvis
+"Open dislocation, thoracic and lumbar vertebra"
+"Paranoid type schizophrenia, unspecified"
+Breast replacement
+Hormones and synthetic substitutes causing adverse effects in therapeutic use
+"Diabetes with peripheral circulatory disorders, type I [juvenile type], not stated as uncontrolled"
+"Sedative, hypnotic or anxiolytic dependence, unspecified"
+Inhalation and ingestion of other object causing obstruction of respiratory tract or suffocation
+Special screening examination for other specified viral diseases
+Screening for chronic bronchitis and emphysema
+"Other anomalies of larynx, trachea, and bronchus"
+Poisoning by vitamin K (phytonadione)
+"Cannabis abuse, unspecified"
+"Pressure ulcer, stage II"
+Personal history of other lymphatic and hematopoietic neoplasms
+Mood disorder in conditions classified elsewhere
+Acute paranoid reaction
+Retinal exudates and deposits
+Period of rapid growth in childhood
+Breast replacement
+Genital herpes
+Subarachnoid hemorrhage following injury without mention of open intracranial wound
+Other and unspecified disorders of bone and cartilage
+Heart replaced by other means
+"Benign neoplasm of ribs, sternum, and clavicle"
+Personal history of malignant neoplasm of breast
+Acquired deformity of neck
+Localized adiposity
+Supervision of high-risk pregnancy with grand multiparity
+Screening for malignant neoplasms of bladder
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Breast replacement
+Screening for malignant neoplasms of bladder
+Persistent disorder of initiating or maintaining sleep
+"Malignant histiocytosis, intrathoracic lymph nodes"
+Screening for malignant neoplasms of cervix
+Autosomal deletion syndromes
+Nonunion of fracture
+Dermatoglyphic anomalies
+Rosacea conjunctivitis
+Accident due to lightning
+Dementia in conditions classified elsewhere without behavioral disturbance
+Other and unspecified disorders of bone and cartilage
+Retinal arterial branch occlusion
+Motor problems with limbs
+Plateau iris syndrome
+Attention deficit disorder of childhood
+"Major abnormality of bony pelvis, not further specified, in pregnancy, labor, and delivery"
+Rosacea conjunctivitis
+Subarachnoid hemorrhage following injury with open intracranial wound
+Heart replaced by other means
+Other mental problems
+"Diabetes mellitus complicating pregnancy, childbirth, or the puerperium"
+Abnormality in fetal heart rate or rhythm during labor
+Stromal corneal pigmentations
+Lack of expected normal physiological development in childhood
+"Intermittent heterotropia, unspecified"
+"Intermittent heterotropia, unspecified"
+Rosacea conjunctivitis
+Aphasia
+"Arthropathy associated with other infectious and parasitic diseases, upper arm"
+Routine general medical examination at a health care facility
+Other chest pain
+Retinal arterial branch occlusion
+"Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, delivered, with or without mention of antepartum condition"
+Serous detachment of retinal pigment epithelium
+Edema
+Retinal exudates and deposits
+"Lagophthalmos, unspecified"
+Edema
+"Subendocardial infarction, subsequent episode of care"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Diastolic heart failure
+"Schmorl's nodes, unspecified region"
+"Neural hearing loss, bilateral"
+Fecal impaction
+Circumscribed labyrinthitis
+"Organ or tissue replaced by other means, heart assist device"
+Monocular exotropia with A pattern
+Personal history of malignant neoplasm of breast
+Coronary atherosclerosis of native coronary artery
+"Intermittent heterotropia, unspecified"
+Monocular exotropia with A pattern
+"Urinary tract infection, site not specified"
+Pulmonary arteriovenous malformation
+Open fracture of coronoid process of ulna
+Obstructive sleep apnea (adult)(pediatric)
+Personal history of malignant neoplasm of breast
+Closed dislocation of finger
+Screening for developmental handicaps in early childhood
+Screening for malignant neoplasms of cervix
+Persistent disorder of initiating or maintaining sleep
+Persistent disorder of initiating or maintaining sleep
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+Personal history of malignant neoplasm of breast
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, antepartum condition or complication"
+"Chronic obstructive asthma, unspecified"
+"Drug dependence of mother, delivered, with mention of postpartum complication"
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+"Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, delivered, with or without mention of antepartum condition"
+Attention deficit disorder with hyperactivity
+Cellulitis and abscess of upper arm and forearm
+"Other venereal diseases in the mother complicating pregnancy, childbirth, or the puerperium"
+Pathological gambling
+Cellulitis and abscess of upper arm and forearm
+Open dislocation of finger
+Acquired deformity of neck
+"Subendocardial infarction, subsequent episode of care"
+Other symptoms involving skin and integumentary tissues
+Nonunion of fracture
+"Follow-up examination, following chemotherapy"
+"Injury to small intestine, unspecified site, without open wound into cavity"
+Dementia with lewy bodies
+Acute venous embolism and thrombosis of deep veins of upper extremity
+Special screening examination for Human papillomavirus (HPV)
+"Organ or tissue replaced by other means, heart assist device"
+Hormones and synthetic substitutes causing adverse effects in therapeutic use
+Pre-operative cardiovascular examination
+Other organ or tissue replaced by other means
+Angiodysplasia of stomach and duodenum without mention of hemorrhage
+Mitral valve disorders
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Breast screening, unspecified"
+Motor problems with limbs
+Screening examination for measles
+Congenital musculoskeletal deformities of spine
+Painful respiration
+"Analgesics, antipyretics, and antirheumatics causing adverse effects in therapeutic use"
+Bariatric surgery status
+Carcinoma in situ of other and unspecified female genital organs
+"Other anomalies of larynx, trachea, and bronchus"
+Open fracture of upper end of fibula with tibia
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Supervision of high-risk pregnancy with elderly primigravida
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+"Other venereal diseases in the mother complicating pregnancy, childbirth, or the puerperium"
+Acquired deformity of chest and rib
+Special screening for other specified conditions
+"Cerebrovascular disorders in the puerperium, antepartum condition or complication"
+"Other complications of obstetrical surgical wounds, delivered, with mention of postpartum complication"
+Other mental problems
+Supervision of high-risk pregnancy with history of abortion
+Cerebrovascular disorders in the puerperium
+"Open fracture of trochanteric section of neck of femur, unspecified"
+Breast replacement
+"Fracture of upper end of tibia and fibula, closed"
+Open dislocation of shoulder
+Attention deficit disorder of childhood
+Displacement of thoracic or lumbar intervertebral disc without myelopathy
+Accident due to lightning
+Interstitial emphysema
+"Bone and joint disorders of back, pelvis, and lower limbs of mother, complicating pregnancy, childbirth, or the puerperium"
+"Other venereal diseases in the mother complicating pregnancy, childbirth, or the puerperium"
+Educational circumstances
+"Injury to small intestine, unspecified site, without open wound into cavity"
+Neoplasm of uncertain behavior of connective and other soft tissue
+Cervical rib
+Unspecified problem related to lifestyle
+Monocular exotropia with A pattern
+"Other tear of cartilage or meniscus of knee, current"
+"Closed fracture of shaft of radius or ulna, unspecified"
+Personal history of malignant neoplasm of breast
+Coracohumeral (ligament) sprain
+Chronic tubotympanic suppurative otitis media
+Obstructive sleep apnea (adult)(pediatric)
+Acute serous otitis media
+Hyperacusis
+Other mental problems
+Juvenile osteochondrosis of hip and pelvis
+Routine general medical examination at a health care facility
+Unspecified psychosis
+Legal execution
+Breast replacement
+Quadriplegia and quadriparesis
+Quadriplegia and quadriparesis
+Chronic pain
+Deficiencies of head
+Long-term (current) use of anticoagulants
+Observation for suspected mental condition
+Monocular exotropia with A pattern
+Other general medical examination for administrative purposes
+Benign essential hypertension
+"Disorders of impulse control, not elsewhere classified"
+Other mental problems
+Open dislocation of finger
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Observation for childhood or adolescent antisocial behavior
+Retinal exudates and deposits
+Malignant neoplasm of ovary
+Autosomal deletion syndromes
+"Cannabis dependence, unspecified"
+Pica
+Screening for malignant neoplasms of bladder
+Person awaiting admission to adequate facility elsewhere
+"Other psychological or physical stress, not elsewhere classified"
+Attention to dressings and sutures
+Certain types of iridocyclitis
+Subacute combined degeneration of spinal cord in diseases classified elsewhere
+Routine general medical examination at a health care facility
+Iron deficiency anemia secondary to blood loss (chronic)
+Persistent disorder of initiating or maintaining sleep
+Other background retinopathy and retinal vascular changes
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+Open fracture of upper end of fibula alone
+Monocular exotropia with A pattern
+Velo-cardio-facial syndrome
+"Closed dislocation, thoracic and lumbar vertebra"
+Abnormal loss of weight and underweight
+"Open dislocation of elbow, unspecified"
+Colostomy status
+Dual sensory impairment
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Breast replacement
+Hemolytic disease of fetus or newborn due to other and unspecified isoimmunization
+Attention to dressings and sutures
+Painful respiration
+Sedatives and hypnotics causing adverse effects in therapeutic use
+"Abdominal tenderness, left upper quadrant"
+"Abdominal tenderness, left upper quadrant"
+Screening for developmental handicaps in early childhood
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Acquired deformity of neck
+Hormones and synthetic substitutes causing adverse effects in therapeutic use
+Colostomy status
+Breast replacement
+"Fetal distress before onset of labor, in liveborn infant"
+"Injury to transverse colon, with open wound into cavity"
+Dual sensory impairment
+Closed fracture of shaft of ulna (alone)
+"Accidental poisoning by analgesics, antipyretics, and antirheumatics"
+Wheelchair dependence
+Heart replaced by other means
+Monocular exotropia with A pattern
+Acute conjunctivitis
+Rosacea conjunctivitis
+Displacement of thoracic or lumbar intervertebral disc without myelopathy
+Screening examination for measles
+Edema
+"Intermittent heterotropia, unspecified"
+Monocular exotropia with A pattern
+Monocular exotropia with A pattern
+Routine general medical examination at a health care facility
+Noise-induced hearing loss
+Unspecified hypertensive heart disease with heart failure
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Subendocardial infarction, subsequent episode of care"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Erythromelalgia
+Hemopericardium
+"Other specified vaccinations against hemophilus influenza, type B [Hib]"
+Rosacea conjunctivitis
+Cervicalgia
+Other and unspecified disorders of bone and cartilage
+"Outcome of delivery, twins, one liveborn and one stillborn"
+"Alcohol abuse, unspecified"
+Mood disorder in conditions classified elsewhere
+Observation for suspected mental condition
+"Falling from high place, undetermined whether accidentally or purposely inflicted"
+Retinal arterial branch occlusion
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+Accident due to high and low air pressure and changes in air pressure
+Nonunion of fracture
+Nonunion of fracture
+Retinal exudates and deposits
+Retinal exudates and deposits
+Larynx replacement
+Retinal exudates and deposits
+"Tuberculosis of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with mention of postpartum complication"
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, antepartum condition or complication"
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+"Retroverted and incarcerated gravid uterus, delivered, with mention of postpartum complication"
+Heart replaced by other means
+"Polyhydramnios, antepartum condition or complication"
+"Late vomiting of pregnancy, delivered, with or without mention of antepartum condition"
+Other organ or tissue replaced by other means
+Screening for malignant neoplasms of cervix
+"Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, delivered, with or without mention of antepartum condition"
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+"Drug dependence of mother, delivered, with mention of postpartum complication"
+"Chronic duodenal ulcer without mention of hemorrhage or perforation, with obstruction"
+Personal history of malignant neoplasm of breast
+Supervision of high-risk pregnancy with elderly primigravida
+Need for prophylactic vaccination and inoculation against influenza
+Routine general medical examination at a health care facility
+Mechanical entropion
+Pneumonia due to chlamydia
+Larynx replacement
+Avoidant personality disorder
+Ulcer of esophagus
+Ulcer of esophagus
+"Other venous complications of pregnancy and the puerperium, antepartum condition or complication"
+"Cerebrovascular disorders in the puerperium, delivered, with mention of postpartum complication"
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition"
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+Other transient neonatal disorders of coagulation
+"Drug dependence of mother, delivered, with mention of postpartum complication"
+Neoplasm of uncertain behavior of skin
+Low grade myelodysplastic syndrome lesions
+Chondromalacia
+Screening for other and unspecified deficiency anemia
+"Neoplasm of uncertain behavior of lip, oral cavity, and pharynx"
+"Disorders of impulse control, not elsewhere classified"
+Kidney replaced by transplant
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Routine gynecological examination
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Nonunion of fracture
+"Viral hepatitis B without mention of hepatic coma, acute or unspecified, with hepatitis delta"
+Retinal arterial branch occlusion
+Personal history of malignant neoplasm of breast
+Personal history of malignant neoplasm of breast
+Carcinoma in situ of other and unspecified female genital organs
+Person awaiting admission to adequate facility elsewhere
+Neoplasm of uncertain behavior of paraganglia
+Retinal exudates and deposits
+Screening for developmental handicaps in early childhood
+"Other infections involving bone in diseases classified elsewhere, upper arm"
+"Body Mass Index between 30-39, adult"
+Organic disorder of excessive somnolence [Organic hypersomnia]
+Examination of eyes and vision
+Methicillin resistant Staphylococcus aureus septicemia
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Routine general medical examination at a health care facility
+"Rupture of muscle, nontraumatic"
+Procedure not carried out for other reasons
+Nonspecific abnormal findings in amniotic fluid
+Nonspecific abnormal findings in amniotic fluid
+Cochlear otosclerosis
+Erythromelalgia
+"Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, delivered, with or without mention of antepartum condition"
+Pneumonia due to Staphylococcus
+Screening examination for measles
+Screening for malignant neoplasms of cervix
+Erythromelalgia
+"Body Mass Index between 30-39, adult"
+"Carcinoma in situ, vagina"
+Hemiplegia/hemiparesis as late effect of cerebrovascular disease
+"Blisters, epidermal loss [second degree] of upper limb, unspecified site"
+Profound intellectual disabilities
+Other general medical examination for administrative purposes
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Malignant neoplasm of bronchus and lung, unspecified"
+Constipation
+"Viral hepatitis B with hepatic coma, acute or unspecified, with hepatitis delta"
+"Acute conjunctivitis, unspecified"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Angiodysplasia of stomach and duodenum without mention of hemorrhage
+"Viral hepatitis B with hepatic coma, acute or unspecified, with hepatitis delta"
+Colostomy status
+"Pressure ulcer, stage III"
+"Follow-up examination, following chemotherapy"
+Esophageal hemorrhage
+Polycythemia vera
+Malignant neoplasm of hard palate
+"Abdominal tenderness, left upper quadrant"
+Organic disorder of excessive somnolence [Organic hypersomnia]
+"Body Mass Index between 30-39, adult"
+"Acute poliomyelitis with other paralysis, poliovirus type II"
+Esophageal hemorrhage
+Supervision of high-risk pregnancy with history of infertility
+Screening examination for malignant neoplasms of the breast
+Accidental drowning and submersion
+Persistent disorder of initiating or maintaining sleep
+"Organ or tissue replaced by other means, heart assist device"
+Neoplasm of uncertain behavior of breast
+"Open dislocation, cervical vertebra"
+Closed fracture of upper end of tibia alone
+Meningitis in other fungal diseases
+Obstructive sleep apnea (adult)(pediatric)
+Screening for malignant neoplasms of bladder
+Coracohumeral (ligament) sprain
+Dual sensory impairment
+Breast replacement
+Routine general medical examination at a health care facility
+Breast replacement
+Screening for malignant neoplasms of cervix
+Headache associated with sexual activity
+Noise-induced hearing loss
+Other specified psychosexual disorders
+Open dislocation of finger
+"Injury to transverse colon, without mention of open wound into cavity"
+Deficiencies of neck and trunk
+"Injury to small intestine, unspecified site, without open wound into cavity"
+Congenital factor VIII disorder
+Hormones and synthetic substitutes causing adverse effects in therapeutic use
+Attention to dressings and sutures
+"Paranoid type schizophrenia, unspecified"
+"Cannabis dependence, unspecified"
+"Paranoid type schizophrenia, unspecified"
+"Fracture of medial malleolus, open"
+Cleft palate
+Borderline personality disorder
+Dementia with lewy bodies
+Serous detachment of retinal pigment epithelium
+"Lagophthalmos, unspecified"
+Monocular exotropia with A pattern
+Monocular exotropia with A pattern
+Attention to dressings and sutures
+Request for expert evidence
+"Acute nonsuppurative otitis media, unspecified"
+"Other malignant lymphomas, lymph nodes of inguinal region and lower limb"
+"Hemoptysis, unspecified"
+"Subendocardial infarction, subsequent episode of care"
+"Subendocardial infarction, subsequent episode of care"
+Injury to other specified intrathoracic organs with open wound into cavity
+Low grade myelodysplastic syndrome lesions
+Retinal exudates and deposits
+Carcinoma in situ of other and unspecified female genital organs
+Screening for malignant neoplasms of bladder
+Carcinoma in situ of other and unspecified female genital organs
+Person living alone
+"Other tear of cartilage or meniscus of knee, current"
+Retinal arterial branch occlusion
+Carcinoma in situ of other and unspecified female genital organs
+Other organ or tissue replaced by other means
+Open fracture of coronoid process of ulna
+Pathological gambling
+Open fracture of coronoid process of ulna
+Open fracture of coronoid process of ulna
+Rosacea conjunctivitis
+Noise-induced hearing loss
+Hormones and synthetic substitutes causing adverse effects in therapeutic use
+"Unspecified abortion, complicated by damage to pelvic organs or tissues, incomplete"
+Chondromalacia
+"Organ or tissue replaced by other means, heart assist device"
+Other acquired deformities of finger
+Unspecified deformity of finger
+Pathologic fracture
+Nonunion of fracture
+"Other complications of obstetrical surgical wounds, delivered, with mention of postpartum complication"
+"Other anomalies of larynx, trachea, and bronchus"
+"Unspecified abortion, complicated by damage to pelvic organs or tissues, complete"
+Plateau iris syndrome
+Screening for malignant neoplasms of cervix
+Acquired deformity of neck
+"Falling from high place, undetermined whether accidentally or purposely inflicted"
+Heart replaced by other means
+Wheelchair dependence
+"Schmorl's nodes, unspecified region"
+"Schmorl's nodes, unspecified region"
+Dual sensory impairment
+Intraventricular hemorrhage of fetus or newborn
+Pyogenic arthritis
+"Arthropathy associated with other infectious and parasitic diseases, upper arm"
+Talipes valgus
+Juvenile osteochondrosis of upper extremity
+Autosomal deletion syndromes
+Special screening examination for Human papillomavirus (HPV)
+Agenesis of uterus
+Fetal hematologic conditions
+Supervision of high-risk pregnancy with grand multiparity
+Obstructive sleep apnea (adult)(pediatric)
+Aspergillosis
+Persistent disorder of initiating or maintaining sleep
+Other postprocedural status
+"Disorders of impulse control, not elsewhere classified"
+"Nonallopathic lesions, sacral region"
+"Falling from high place, undetermined whether accidentally or purposely inflicted"
+Quadriplegia and quadriparesis
+"Retroverted and incarcerated gravid uterus, delivered, with mention of postpartum complication"
+Pathological gambling
+Accident due to lightning
+Secondary parkinsonism
+Observation for suspected mental condition
+Other and unspecified misadventures during medical care
+"Screening for other and unspecified endocrine, nutritional, metabolic, and immunity disorders"
+"Open dislocation, thoracic and lumbar vertebra"
+Hypoactive sexual desire disorder
+Lack of expected normal physiological development in childhood
+"Opioid abuse, unspecified"
+Counseling for perpetrator of physical/sexual abuse
+Pathological gambling
+Persistent disorder of initiating or maintaining sleep
+"Fracture of upper end of tibia and fibula, closed"
+Pathological gambling
+Shyness disorder of childhood
+Closed fracture of upper end of fibula with tibia
+Observation for suspected tuberculosis
+Juvenile osteochondrosis of upper extremity
+Headache associated with sexual activity
+Cervical rib
+Retinal arterial branch occlusion
+Retinal arterial branch occlusion
+Need for prophylactic vaccination and inoculation against measles alone
+Other hypothermia of newborn
+"Hemoptysis, unspecified"
+Retinal arterial branch occlusion
+Screening examination for unspecified viral disease
+Rosacea conjunctivitis
+Closed fracture of shaft of radius (alone)
+Rosacea conjunctivitis
+Stromal corneal pigmentations
+"Organ or tissue replaced by other means, heart assist device"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Hypospadias and epispadias and other penile anomalies
+Monocular exotropia with A pattern
+Profound intellectual disabilities
+"Drug induced headache, not elsewhere classified"
+Noise-induced hearing loss
+Acute conjunctivitis
+Retinal dystrophy in other systemic disorders and syndromes
+Retinal dystrophy in other systemic disorders and syndromes
+Retinal dystrophy in other systemic disorders and syndromes
+Retinal exudates and deposits
+"Organ or tissue replaced by other means, heart assist device"
+Serous detachment of retinal pigment epithelium
+Retinal exudates and deposits
+Retinal dystrophy in systemic or cerebroretinal lipidoses
+Retinal arterial branch occlusion
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Sedatives and hypnotics causing adverse effects in therapeutic use
+Other organ or tissue replaced by other means
+Eye globe replaced by other means
+Acute conjunctivitis
+Open fracture of coronoid process of ulna
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Pain in joint, multiple sites"
+Breast replacement
+Low grade myelodysplastic syndrome lesions
+Need for prophylactic vaccination and inoculation against rubella alone
+"Open fracture of trochanteric section of neck of femur, unspecified"
+Inflamed seborrheic keratosis
+Kyphoscoliosis and scoliosis
+Kyphoscoliosis and scoliosis
+"Pressure ulcer, stage II"
+"Malignant histiocytosis, intrathoracic lymph nodes"
+"Open fracture of trochanteric section of neck of femur, unspecified"
+Hemophilia A carrier
+Genital herpes
+Dual sensory impairment
+Carcinoma in situ of other and unspecified female genital organs
+"Body Mass Index between 30-39, adult"
+Personal history of malignant neoplasm of breast
+Other specified congenital anomalies of heart
+Need for prophylactic vaccination and inoculation against influenza
+Motor problems with limbs
+"Other infections involving bone in diseases classified elsewhere, upper arm"
+Mechanical and motor problems with neck and trunk
+"Human T-cell lymphotrophic virus, type II [HTLV-II]"
+"Viral warts, unspecified"
+"Carcinoma in situ, vagina"
+"Other anomalies of larynx, trachea, and bronchus"
+Chondromalacia
+Juvenile osteochondrosis of hip and pelvis
+Pre-operative cardiovascular examination
+Acquired deformity of neck
+Screening for malignant neoplasms of bladder
+Methicillin resistant Staphylococcus aureus septicemia
+Bone marrow replaced by transplant
+"Sickle-cell disease, unspecified"
+Primary thrombocytopenia
+Subarachnoid hemorrhage following injury without mention of open intracranial wound
+Subarachnoid hemorrhage following injury without mention of open intracranial wound
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Fetal distress before onset of labor, in liveborn infant"
+Cellulitis and abscess of upper arm and forearm
+Accident due to lightning
+"Paranoid type schizophrenia, unspecified"
+"Acute conjunctivitis, unspecified"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Screening for malignant neoplasms of bladder
+Inflamed seborrheic keratosis
+"Neoplasm of uncertain behavior of lip, oral cavity, and pharynx"
+Unspecified deformity of finger
+Colostomy status
+"Chronic osteomyelitis, site unspecified"
+Personal history of malignant neoplasm of breast
+Sprain of sacrum
+Hormones and synthetic substitutes causing adverse effects in therapeutic use
+Hormones and synthetic substitutes causing adverse effects in therapeutic use
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+"Diabetes with ketoacidosis, type I [juvenile type], not stated as uncontrolled"
+"Other psychological or physical stress, not elsewhere classified"
+Cerebral degeneration in generalized lipidoses
+"Open fracture of trochanteric section of neck of femur, unspecified"
+Suicidal ideation
+"Infertility, female, of uterine origin"
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, unspecified as to episode of care or not applicable"
+Pre-operative cardiovascular examination
+Screening for malignant neoplasms of bladder
+Rheumatic heart failure (congestive)
+Breast replacement
+Special screening examination for Human papillomavirus (HPV)
+"Subendocardial infarction, subsequent episode of care"
+Pectus carinatum
+"Arthropathy associated with other infectious and parasitic diseases, upper arm"
+"Arthropathy associated with other infectious and parasitic diseases, upper arm"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Congenital abnormalities of uterus complicating pregnancy, childbirth, or the puerperium"
+Special screening examination for Human papillomavirus (HPV)
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, unspecified as to episode of care or not applicable"
+Attention deficit disorder of childhood
+Acute petrositis
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Motor problems with limbs
+Pyogenic arthritis
+"Other venereal diseases in the mother complicating pregnancy, childbirth, or the puerperium"
+Primary thrombocytopenia
+"Unspecified abortion, complicated by damage to pelvic organs or tissues, complete"
+Coronary atherosclerosis
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Dermatitis due to cosmetics
+Cellulitis and abscess of upper arm and forearm
+"Chronic obstructive asthma, unspecified"
+Erythromelalgia
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, unspecified as to episode of care or not applicable"
+Influenza with pneumonia
+Dual sensory impairment
+"Other venereal diseases in the mother complicating pregnancy, childbirth, or the puerperium"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Acquired deformity of pelvis
+"Acute nonsuppurative otitis media, unspecified"
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition"
+Atrial fibrillation
+Left heart failure
+"Other venereal diseases in the mother complicating pregnancy, childbirth, or the puerperium"
+Sprain of sacrum
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+"Abdominal aneurysm, ruptured"
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition"
+Acquired spondylolisthesis
+Intermittent heterotropia
+"Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, antepartum condition or complication"
+"Transient hypertension of pregnancy, delivered , with or without mention of antepartum condition"
+Circadian rhythm sleep disorder
+"Closed dislocation, thoracic and lumbar vertebra"
+"Other complications of obstetrical surgical wounds, delivered, with mention of postpartum complication"
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition"
+"Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, antepartum condition or complication"
+Hyperkinetic conduct disorder
+Monocular exotropia with A pattern
+Rosacea conjunctivitis
+"Schmorl's nodes, unspecified region"
+"Cerebrovascular disorders in the puerperium, antepartum condition or complication"
+Displacement of thoracic or lumbar intervertebral disc without myelopathy
+Diverticulitis of colon (without mention of hemorrhage)
+Monocular exotropia with A pattern
+"Lagophthalmos, unspecified"
+Acquired deformity of neck
+"Intermittent heterotropia, unspecified"
+Pre-operative cardiovascular examination
+"Drug dependence of mother, unspecified as to episode of care or not applicable"
+Lagophthalmos
+Personal history of malignant neoplasm of breast
+"Chronic kidney disease, Stage III (moderate)"
+Acquired spondylolisthesis
+Breast replacement
+Disruption of external operation (surgical) wound
+Displacement of lumbar intervertebral disc without myelopathy
+Special screening examination for other specified viral diseases
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition"
+Breast replacement
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Neoplasm of uncertain behavior of placenta
+Ulcer of esophagus
+Dual sensory impairment
+Other behavioral problems
+Routine general medical examination at a health care facility
+Screening for malignant neoplasms of bladder
+Chronic obstructive asthma with status asthmaticus
+Autonomic dysreflexia
+"Nephritis and nephropathy, not specified as acute or chronic, with lesion of membranoproliferative glomerulonephritis"
+"Tuberculosis of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with mention of postpartum complication"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Observation for suspected tuberculosis
+"Retroverted and incarcerated gravid uterus, delivered, with mention of postpartum complication"
+"General psychiatric examination, other and unspecified"
+Other organ or tissue replaced by other means
+Motor problems with limbs
+Other organ or tissue replaced by other means
+Personal history of malignant neoplasm of breast
+"Hemoptysis, unspecified"
+Personal history of malignant neoplasm of breast
+Personal history of malignant neoplasm of breast
+Attention to dressings and sutures
+Hormones and synthetic substitutes causing adverse effects in therapeutic use
+Neoplasm of uncertain behavior of testis
+Personal history of malignant neoplasm of breast
+Nonunion of fracture
+Angiodysplasia of stomach and duodenum without mention of hemorrhage
+Other behavioral problems
+Lack of coordination
+Vascular hamartomas
+"Abdominal tenderness, left upper quadrant"
+Other specified congenital anomalies of heart
+Maternal anesthesia and analgesia affecting fetus or newborn
+"Malignant histiocytosis, intrathoracic lymph nodes"
+Angiodysplasia of stomach and duodenum without mention of hemorrhage
+Motor problems with limbs
+Agenesis of uterus
+Other and unspecified disorders of bone and cartilage
+Angiodysplasia of stomach and duodenum without mention of hemorrhage
+Breast replacement
+Nonunion of fracture
+Mechanical and motor problems with neck and trunk
+Screening examination for malignant neoplasms of the breast
+"Malignant histiocytosis, intrathoracic lymph nodes"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Screening for malignant neoplasms of cervix
+Attention to dressings and sutures
+"Other infections involving bone in diseases classified elsewhere, upper arm"
+Ulcer of esophagus with bleeding
+Screening for ear diseases
+"General psychiatric examination, other and unspecified"
+Screening examination for unspecified viral disease
+Low grade myelodysplastic syndrome lesions
+"Malignant neoplasm of bronchus and lung, unspecified"
+Late effects of tuberculosis of bones and joints
+Attention to dressings and sutures
+Velo-cardio-facial syndrome
+Other and unspecified disorders of bone and cartilage
+Autosomal deletion syndromes
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Other organ or tissue replaced by other means
+Dual sensory impairment
+Quadriplegia and quadriparesis
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+"Organ or tissue replaced by other means, heart assist device"
+Acute mucoid otitis media
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Other liveborn, unspecified, born in hospital"
+Unspecified anomaly of ear
+"Closed dislocation, thoracic and lumbar vertebra"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Falling from high place, undetermined whether accidentally or purposely inflicted"
+"Tobacco use disorder complicating pregnancy, childbirth, or the puerperium"
+Late effects of tuberculosis of bones and joints
+Hyperacusis
+Hemoptysis
+"Open dislocation of elbow, unspecified"
+Methicillin resistant Staphylococcus aureus septicemia
+Edema
+Neoplasm of uncertain behavior of connective and other soft tissue
+Noise-induced hearing loss
+Acute petrositis
+"Organ or tissue replaced by other means, heart assist device"
+Colostomy status
+"Acute nonsuppurative otitis media, unspecified"
+Retinal exudates and deposits
+Screening examination for measles
+"Organ or tissue replaced by other means, heart assist device"
+"Closed fracture of shaft of radius or ulna, unspecified"
+Sedatives and hypnotics causing adverse effects in therapeutic use
+Colostomy status
+"Closed fracture of shaft of radius or ulna, unspecified"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Lagophthalmos
+"Organ or tissue replaced by other means, heart assist device"
+Paralytic lagophthalmos
+Routine general medical examination at a health care facility
+Rosacea conjunctivitis
+"Lagophthalmos, unspecified"
+Monocular exotropia with A pattern
+Retinal arterial branch occlusion
+Mechanical and motor problems with head
+Intermittent heterotropia
+Person feigning illness
+Monocular exotropia with A pattern
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Monocular exotropia with A pattern
+"Closed dislocation, lumbar vertebra"
+Retinal arterial branch occlusion
+Retinal hemorrhage
+"Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, antepartum condition or complication"
+"Intermittent heterotropia, unspecified"
+Intraspinal abscess
+Erythromelalgia
+Edema
+Other specified cestode infection
+Hormones and synthetic substitutes causing adverse effects in therapeutic use
+Special screening examination for Human papillomavirus (HPV)
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition"
+Other acquired deformities of finger
+Polyphagia
+Erythromelalgia
+Heart replaced by other means
+"Paranoid type schizophrenia, unspecified"
+"Paranoid type schizophrenia, unspecified"
+"Late vomiting of pregnancy, delivered, with or without mention of antepartum condition"
+"Breech presentation without mention of version, delivered, with or without mention of antepartum condition"
+"Pressure ulcer, stage I"
+Other primary thrombocytopenia
+"Dislocation of patella, closed"
+Contact dermatitis and other eczema due to drugs and medicines in contact with skin
+Pneumonia due to chlamydia
+Bone marrow replaced by transplant
+Other organ or tissue replaced by other means
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Special screening examination for Human papillomavirus (HPV)
+Localized adiposity
+Primary thrombocytopenia
+"Pain in joint, multiple sites"
+Herpetic ulceration of vulva
+Postherpetic trigeminal neuralgia
+"Pressure ulcer, stage II"
+"Open fracture of trochanteric section of neck of femur, unspecified"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Observation for other suspected mental condition
+"Tuberculosis of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with mention of postpartum complication"
+Hormones and synthetic substitutes causing adverse effects in therapeutic use
+Need for prophylactic vaccination and inoculation against diptheria-tetanus- pertussis with typhoid-paratyphoid (DTP + TAB)
+"Tuberculosis of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with mention of postpartum complication"
+Intracranial abscess
+Organic disorder of excessive somnolence [Organic hypersomnia]
+"Outcome of delivery, twins, one liveborn and one stillborn"
+"Open dislocation, cervical vertebra"
+Special screening examination for other specified viral diseases
+Screening for malignant neoplasms of cervix
+Special screening examination for other specified viral diseases
+Hormones and synthetic substitutes causing adverse effects in therapeutic use
+"General psychiatric examination, other and unspecified"
+Breast replacement
+Screening for malignant neoplasms of cervix
+Mental and behavioral problems with learning
+"Body Mass Index between 30-39, adult"
+Motor problems with limbs
+Motor problems with limbs
+Pre-operative cardiovascular examination
+Routine general medical examination at a health care facility
+Screening for other and unspecified deficiency anemia
+Other mental problems
+"Accidental poisoning by analgesics, antipyretics, and antirheumatics"
+Motor problems with limbs
+Motor problems with limbs
+Other and unspecified environmental and accidental causes
+Supervision of high-risk pregnancy with history of infertility
+Pre-operative cardiovascular examination
+Special screening examination for Human papillomavirus (HPV)
+Screening for malignant neoplasms of cervix
+Other antenatal screening based on amniocentesis
+Sedatives and hypnotics causing adverse effects in therapeutic use
+Need for prophylactic vaccination and inoculation against influenza
+Hormones and synthetic substitutes causing adverse effects in therapeutic use
+Fitting and adjustment of hearing aid
+Need for prophylactic vaccination and inoculation against diptheria-tetanus- pertussis with poliomyelitis [DTP + polio]
+"Outcome of delivery, twins, one liveborn and one stillborn"
+Hormones and synthetic substitutes causing adverse effects in therapeutic use
+Examination of participant in clinical trial
+Hormones and synthetic substitutes causing adverse effects in therapeutic use
+Other organ or tissue replaced by other means
+Sedatives and hypnotics causing adverse effects in therapeutic use
+Other mental problems
+Hormones and synthetic substitutes causing adverse effects in therapeutic use
+"Aftercare following surgery to specified body systems, not elsewhere classified"
+Other organ or tissue replaced by other means
+Failure in dosage
+Hormones and synthetic substitutes causing adverse effects in therapeutic use
+Other organ or tissue replaced by other means
+"Outcome of delivery, twins, one liveborn and one stillborn"
+Hormones and synthetic substitutes causing adverse effects in therapeutic use
+Supervision of high-risk pregnancy with history of trophoblastic disease
+Wheelchair dependence
+Motor problems with limbs
+Dual sensory impairment
+Other organ or tissue replaced by other means
+"Falling from high place, undetermined whether accidentally or purposely inflicted"
+Breast replacement
+Aphasia
+Other organ or tissue replaced by other means
+"Other anomalies of larynx, trachea, and bronchus"
+Observation for suspected mental condition
+Other digestive problems
+Edema
+Edema
+Edema
+Routine general medical examination at a health care facility
+Routine general medical examination at a health care facility
+Other general medical examination for administrative purposes
+Other screening mammogram
+Dual sensory impairment
+Pre-operative cardiovascular examination
+Dual sensory impairment
+Need for prophylactic vaccination and inoculation against diptheria-tetanus- pertussis with poliomyelitis [DTP + polio]
+Attention to dressings and sutures
+Screening for other and unspecified deficiency anemia
+Screening examination for measles
+"General psychiatric examination, other and unspecified"
+Observation for suspected mental condition
+Personal history of malignant neoplasm of breast
+Alkalosis
+Personal history of malignant neoplasm of breast
+Personal history of malignant neoplasm of breast
+Routine general medical examination at a health care facility
+Disruption of external operation (surgical) wound
+Personal history of malignant neoplasm of breast
+Poisoning by local astringents and local detergents
+"Analgesics, antipyretics, and antirheumatics causing adverse effects in therapeutic use"
+"Fall in, on, or from aircraft"
+Animal-drawn vehicle accident
+Other organ or tissue replaced by other means
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Supervision of normal first pregnancy
+Other specific muscle disorders
+Routine general medical examination at a health care facility
+Localized adiposity
+Person awaiting admission to adequate facility elsewhere
+Edema
+Parent-child problems
+Low birth weight status
+Person awaiting admission to adequate facility elsewhere
+Personal history of other genital system and obstetric disorders
+Routine infant or child health check
+Hormones and synthetic substitutes causing adverse effects in therapeutic use
+Personal history of tobacco use
+"Other psychological or physical stress, not elsewhere classified"
+Supervision of high-risk pregnancy with history of infertility
+Overexertion and strenuous and repetitive movements or loads
+Hormones and synthetic substitutes causing adverse effects in therapeutic use
+Overexertion and strenuous and repetitive movements or loads
+"Other psychological or physical stress, not elsewhere classified"
+"Follow-up examination, following chemotherapy"
+Mechanical and motor problems with neck and trunk
+Postmenopausal atrophic vaginitis
+Polycythemia vera
+"Tuberculosis complicating pregnancy, childbirth, or the puerperium"
+Wheelchair dependence
+Acromegaly and gigantism
+Cervical rib
+"Abdominal or pelvic swelling, mass, or lump"
+Screening for malignant neoplasms of cervix
+"Follow-up examination, following chemotherapy"
+"Drug dependence of mother, delivered, with mention of postpartum complication"
+"Retroverted and incarcerated gravid uterus, delivered, with mention of postpartum complication"
+Person awaiting admission to adequate facility elsewhere
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+"Diabetes mellitus complicating pregnancy, childbirth, or the puerperium"
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, unspecified as to episode of care or not applicable"
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition"
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition"
+"Coagulation defects complicating pregnancy, childbirth, or the puerperium"
+"Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, antepartum condition or complication"
+Panhypopituitarism
+Autoimmune hemolytic anemias
+Autoimmune hemolytic anemias
+Aseptic necrosis of bone
+Eosinophilia
+Nonunion of fracture
+Cellulitis and abscess of oral soft tissues
+Gastric mucosal hypertrophy
+Kidney replaced by transplant
+Pulmonary arteriovenous malformation
+Acidosis
+Screening for chronic bronchitis and emphysema
+"Single liveborn, born in hospital"
+Choleperitonitis
+"Femoral hernia with obstruction, bilateral (not specified as recurrent)"
+Vascular hamartomas
+Special screening examination for other specified viral diseases
+Esophageal reflux
+"Abdominal rigidity, right lower quadrant"
+Angiodysplasia of stomach and duodenum without mention of hemorrhage
+Angiodysplasia of stomach and duodenum without mention of hemorrhage
+Non-autoimmune hemolytic anemias
+"Retroverted and incarcerated gravid uterus, delivered, with mention of postpartum complication"
+Personal history of malignant neoplasm of breast
+Ulcer of calf
+Routine general medical examination at a health care facility
+Genetic counseling and testing on procreative management
+Contact dermatitis and other eczema due to drugs and medicines in contact with skin
+Neoplasm of uncertain behavior of placenta
+Screening for malignant neoplasms of bladder
+Other general medical examination for administrative purposes
+Drug reactions and intoxications specific to newborn
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, unspecified as to episode of care or not applicable"
+Hemophilia A carrier
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition"
+Retinal exudates and deposits
+"Cerebrovascular disorders in the puerperium, delivered, with mention of postpartum complication"
+"Cerebrovascular disorders in the puerperium, antepartum condition or complication"
+"Arthropathy associated with other infectious and parasitic diseases, upper arm"
+Supervision of high-risk pregnancy with history of abortion
+Screening for malignant neoplasms of bladder
+Open dislocation of shoulder
+"Schmorl's nodes, unspecified region"
+Displacement of thoracic or lumbar intervertebral disc without myelopathy
+Screening for malignant neoplasms of bladder
+Juvenile chronic polyarthritis
+Obstructive sleep apnea (adult)(pediatric)
+Carcinoma in situ of other and unspecified female genital organs
+"Arthropathy associated with other infectious and parasitic diseases, upper arm"
+"Pain in joint, multiple sites"
+Special screening examination for Human papillomavirus (HPV)
+Personal history of malignant neoplasm of breast
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+"Congenital abnormalities of uterus complicating pregnancy, childbirth, or the puerperium"
+Acquired deformity of neck
+Retinal exudates and deposits
+Unstable lie of fetus
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, antepartum condition or complication"
+"Tuberculosis of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with mention of postpartum complication"
+"Congenital abnormalities of uterus, unspecified as to episode of care or not applicable"
+Hemorrhage and infarction of thyroid
+Previous cesarean section complicating pregnancy or childbirth
+"Retroverted and incarcerated gravid uterus, delivered, with mention of postpartum complication"
+"Transverse or oblique presentation, delivered, with or without mention of antepartum condition"
+"Congenital abnormalities of uterus complicating pregnancy, childbirth, or the puerperium"
+Other speech disturbance
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+"Drug dependence of mother, delivered, with mention of postpartum complication"
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+"Drug dependence of mother, unspecified as to episode of care or not applicable"
+"Nonallopathic lesions, thoracic region"
+Acquired deformity of neck
+Personal history of malignant neoplasm of breast
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+"Other complications of obstetrical surgical wounds, delivered, with mention of postpartum complication"
+Placenta previa without hemorrhage
+Other complications of obstetrical surgical wounds
+"Other complications of obstetrical surgical wounds, delivered, with mention of postpartum complication"
+"Other complications of obstetrical surgical wounds, delivered, with mention of postpartum complication"
+Failed attempted abortion complicated by damage to pelvic organs or tissues
+Edema
+Special screening examination for unspecified viral disease
+Inconclusive mammogram
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, antepartum condition or complication"
+Myelopathy in other diseases classified elsewhere
+Pneumonia due to chlamydia
+Retinal exudates and deposits
+Stromal corneal pigmentations
+"Lagophthalmos, unspecified"
+Retinal arterial branch occlusion
+Corneal disorder due to contact lens
+Retinal exudates and deposits
+Monocular exotropia with A pattern
+"Intermittent heterotropia, unspecified"
+Stromal corneal pigmentations
+Transient tic disorder
+Transient tic disorder
+"Socialized conduct disorder, mild"
+Pathological gambling
+Other organ or tissue replaced by other means
+Background diabetic retinopathy
+Other general medical examination for administrative purposes
+Retinal arterial branch occlusion
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+Rosacea conjunctivitis
+Acute conjunctivitis
+"Lagophthalmos, unspecified"
+Nonunion of fracture
+Monocular exotropia with A pattern
+"Amphetamine or related acting sympathomimetic abuse, unspecified"
+"Exotropia, unspecified"
+Monocular exotropia with A pattern
+Lagophthalmos
+Predominant psychomotor disturbance
+"Lagophthalmos, unspecified"
+Special screening examination for other specified viral diseases
+Pathological gambling
+"Lagophthalmos, unspecified"
+Lagophthalmos
+Other developmental speech or language disorder
+"Lagophthalmos, unspecified"
+Retinal exudates and deposits
+Retinal exudates and deposits
+Breast replacement
+Retinal exudates and deposits
+Severe intellectual disabilities
+"Migraine, unspecified, with intractable migraine, so stated, without mention of status migrainosus"
+Identity disorder of childhood or adolescence
+Quadriplegia and quadriparesis
+Quadriplegia and quadriparesis
+Unspecified anomaly of ear
+Aphasia
+Persistent disorder of initiating or maintaining sleep
+Persistent disorder of initiating or maintaining sleep
+Retinal exudates and deposits
+Retinal dystrophy in other systemic disorders and syndromes
+Retinal exudates and deposits
+Retinal exudates and deposits
+Persistent vegetative state
+Localized adhesions and strands of conjunctiva
+"Disorders of impulse control, not elsewhere classified"
+Rosacea conjunctivitis
+Serous detachment of retinal pigment epithelium
+Retinal ischemia
+Retinal exudates and deposits
+Retinal dystrophy in other systemic disorders and syndromes
+Selective mutism
+Retinal dystrophy in other systemic disorders and syndromes
+Other acute reactions to stress
+Screening examination for diphtheria
+Retinal dystrophy in other systemic disorders and syndromes
+Retinal exudates and deposits
+"Disorders of impulse control, not elsewhere classified"
+Larynx replacement
+Monocular exotropia with A pattern
+Pathological gambling
+Chronic pain
+Retinal exudates and deposits
+Benign intracranial hypertension
+"Major depressive affective disorder, recurrent episode, moderate"
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+"Other anomalies of larynx, trachea, and bronchus"
+Primary central sleep apnea
+"Major depressive affective disorder, recurrent episode, unspecified"
+Generalized anxiety disorder
+"Acute myocardial infarction of other anterior wall, episode of care unspecified"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Acute myocardial infarction of inferolateral wall, initial episode of care"
+"Subendocardial infarction, subsequent episode of care"
+Erythromelalgia
+"Paranoid type schizophrenia, unspecified"
+"Chronic obstructive asthma, unspecified"
+Vascular dementia
+Persistent disorder of initiating or maintaining sleep
+Neoplasm of uncertain behavior of other and unspecified female genital organs
+"Paranoid type schizophrenia, unspecified"
+Pneumonia due to chlamydia
+"Schizophrenic disorders, residual type, subchronic with acute exacerbation"
+"Late effects of cerebrovascular disease, hemiplegia affecting dominant side"
+"Schizoaffective disorder, subchronic with acute exacerbation"
+"Paranoid type schizophrenia, unspecified"
+Benign essential hypertension
+"Sedative, hypnotic or anxiolytic dependence, unspecified"
+Other organ or tissue replaced by other means
+"Cannabis abuse, unspecified"
+Larynx replacement
+Retinal ischemia
+"Conjunctivitis, unspecified"
+"Lagophthalmos, unspecified"
+"Intermittent heterotropia, unspecified"
+"Sedative, hypnotic or anxiolytic dependence, unspecified"
+Special screening examination for other specified viral diseases
+Subjective visual disturbances
+"Intermittent esotropia, monocular"
+Monocular exotropia with A pattern
+"Amphetamine or related acting sympathomimetic abuse, unspecified"
+"Intermittent esotropia, monocular"
+"Opioid abuse, unspecified"
+Retinal exudates and deposits
+Rash and other nonspecific skin eruption
+"Acute nonsuppurative otitis media, unspecified"
+Other specified psychosexual disorders
+Mitral valve disorders
+Psychosexual dysfunction with inhibited sexual excitement
+Hemopericardium
+Pathological gambling
+Noise-induced hearing loss
+Noise-induced hearing loss
+Noise-induced hearing loss
+Noise-induced hearing loss
+"Alcohol abuse, unspecified"
+Screening examination for measles
+Acute mucoid otitis media
+"Alcohol abuse, episodic"
+Screening for malignant neoplasms of cervix
+Closed fracture of upper end of fibula with tibia
+Screening examination for measles
+"Open dislocation of elbow, unspecified"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Colostomy status
+Open fracture of coronoid process of ulna
+Pediculus corporis [body louse]
+Closed fracture of upper end of fibula with tibia
+Breast replacement
+Granuloma of conjunctiva
+Oval window fistula
+Postprocedural fever
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Injury to bladder and urethra, without mention of open wound into cavity"
+"Injury to bladder and urethra, without mention of open wound into cavity"
+Accident due to lightning
+"Injury to transverse colon, without mention of open wound into cavity"
+"Injury to stomach, without mention of open wound into cavity"
+Bariatric surgery status
+Acquired deformity of pelvis
+Subarachnoid hemorrhage following injury without mention of open intracranial wound
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Viral hepatitis B without mention of hepatic coma, acute or unspecified, with hepatitis delta"
+Open fracture of upper end of fibula with tibia
+Transitory tachypnea of newborn
+Elbow joint replacement
+Heart replaced by other means
+Deficiencies of head
+Colostomy status
+"Organ or tissue replaced by other means, heart assist device"
+Hemophilia A carrier
+Chyluria
+Aphasia
+Other postprocedural status
+Attention deficit disorder of childhood
+Fitting and adjustment of hearing aid
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Closed fracture of shaft of radius or ulna, unspecified"
+"Closed fracture of shaft of radius or ulna, unspecified"
+"Closed fracture of shaft of radius or ulna, unspecified"
+"Organ or tissue replaced by other means, heart assist device"
+"Organ or tissue replaced by other means, heart assist device"
+Late effects of tuberculosis of bones and joints
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Larynx replacement
+Other digestive problems
+Other mental problems
+Larynx replacement
+Deficiencies of head
+Screening examination for measles
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Breast replacement
+Transplanted organ removal status
+Breast replacement
+Breast replacement
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Colostomy status
+Breast replacement
+Inflamed seborrheic keratosis
+Person feigning illness
+Contact dermatitis and other eczema due to drugs and medicines in contact with skin
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Pressure ulcer, stage I"
+"Pressure ulcer, stage II"
+Inflamed seborrheic keratosis
+"Pressure ulcer, stage III"
+"Pressure ulcer, stage II"
+"Open fracture of trochanteric section of neck of femur, unspecified"
+Inflamed seborrheic keratosis
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Injury to small intestine, unspecified site, without open wound into cavity"
+Other causes of encephalitis and encephalomyelitis
+Encounter for removal of sutures
+Open fracture of coronoid process of ulna
+Breast replacement
+Postherpetic trigeminal neuralgia
+Mechanical and motor problems with neck and trunk
+Breast replacement
+Genital herpes
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Edema
+Screening examination for measles
+Screening examination for measles
+Screening examination for measles
+Screening examination for measles
+Screening examination for measles
+Routine general medical examination at a health care facility
+Breast replacement
+"Unspecified adverse effect of unspecified drug, medicinal and biological substance"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Breast replacement
+Colostomy status
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Neoplasm of uncertain behavior of connective and other soft tissue
+"Other anomalies of larynx, trachea, and bronchus"
+Other behavioral problems
+Breast replacement
+Mental and behavioral problems with communication [including speech]
+"Organ or tissue replaced by other means, heart assist device"
+"Multiple myeloma, in remission"
+Chondromalacia
+"Malignant histiocytosis, unspecified site, extranodal and solid organ sites"
+Kidney replaced by transplant
+Breast replacement
+Kidney replaced by transplant
+Retinal exudates and deposits
+Certain types of iridocyclitis
+Carcinoma in situ of other and unspecified female genital organs
+Personal history of malignant neoplasm
+Congenital musculoskeletal deformities of spine
+Congenital musculoskeletal deformities of spine
+Talipes valgus
+"Bone and joint disorders of back, pelvis, and lower limbs of mother, complicating pregnancy, childbirth, or the puerperium"
+Congenital obstruction of ureteropelvic junction
+Cervical rib
+"Other anomalies of larynx, trachea, and bronchus"
+"Carcinoma in situ, vagina"
+Hyperacusis
+Lagophthalmos
+Chronic osteomyelitis
+Other mental problems
+Other lymphatic and hematopoietic tissues
+Acquired deformity of neck
+"Benign neoplasm of ribs, sternum, and clavicle"
+"Closed dislocation, lumbar vertebra"
+Benign neoplasm of colon
+"Pain in joint, site unspecified"
+"Pain in joint, site unspecified"
+Lumbago
+Lumbago
+Carcinoma in situ of other and unspecified female genital organs
+Nonunion of fracture
+Acquired deformity of neck
+Carcinoma in situ of other and unspecified female genital organs
+Nonunion of fracture
+Cervicalgia
+Screening for malignant neoplasms of bladder
+"Schmorl's nodes, unspecified region"
+Cervical spondylosis with myelopathy
+Other and unspecified disorders of bone and cartilage
+"Enthesopathy of elbow, unspecified"
+"Pain in joint, multiple sites"
+Persistent disorder of initiating or maintaining sleep
+Heart replaced by other means
+"Congenital abnormalities of uterus complicating pregnancy, childbirth, or the puerperium"
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+Other hypothermia of newborn
+"Jaundice, unspecified, not of newborn"
+Malignant neoplasm of rectum
+Congenital musculoskeletal deformities of spine
+"Congenital abnormalities of uterus complicating pregnancy, childbirth, or the puerperium"
+Edema
+"Congenital abnormalities of uterus complicating pregnancy, childbirth, or the puerperium"
+Lack of expected normal physiological development in childhood
+Delayed milestones
+Screening for malignant neoplasms of bladder
+Malignant neoplasm of hard palate
+Malignant neoplasm of hard palate
+Malignant neoplasm of hard palate
+Acute respiratory failure following trauma and surgery
+Other valgus deformities of feet
+"Malignant neoplasm of anus, unspecified site"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Nonspecific (abnormal) findings on radiological and other examination of other intrathoracic organs
+"Organ or tissue replaced by other means, heart assist device"
+Polyphagia
+Disorder of stomach function and feeding problems in newborn
+Heart replaced by other means
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Routine general medical examination at a health care facility
+Genetic counseling and testing on procreative management
+"General psychiatric examination, other and unspecified"
+Supervision of high-risk pregnancy with history of infertility
+Primary central sleep apnea
+Request for expert evidence
+Genetic counseling and testing on procreative management
+Screening for malignant neoplasms of cervix
+Carcinoma in situ of other and unspecified female genital organs
+"Acquired hemolytic anemia, unspecified"
+Antineoplastic chemotherapy induced anemia
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Carcinoma in situ, vagina"
+Pneumocystosis
+Pneumococcal meningitis
+Mechanical and motor problems with head
+Other behavioral problems
+Bariatric surgery status
+Low grade myelodysplastic syndrome lesions
+Congenital factor VIII disorder
+"Viral warts, unspecified"
+Personal history of malignant neoplasm of breast
+Pneumococcal meningitis
+Genetic counseling and testing on procreative management
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Screening for malignant neoplasms of bladder
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Polycythemia vera
+Carcinoma in situ of other and unspecified female genital organs
+"Carcinoma in situ, vagina"
+Plantar wart
+Personal history of malignant neoplasm
+Encounter for radiotherapy
+"Diabetes with ketoacidosis, type I [juvenile type], not stated as uncontrolled"
+Neoplasm of unspecified nature of digestive system
+Observation and evaluation for suspected exposure to anthrax
+Other behavioral problems
+"Viral hepatitis B with hepatic coma, acute or unspecified, with hepatitis delta"
+"Enthesopathy of elbow, unspecified"
+Personal history of malignant neoplasm of breast
+Issue of medical certificates
+Malignant neoplasm of hard palate
+Fitting and adjustment of hearing aid
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+"Hodgkin's disease, lymphocytic depletion, intrathoracic lymph nodes"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Late effects of genitourinary tuberculosis
+"Schizoaffective disorder, unspecified"
+Pre-operative cardiovascular examination
+"Paranoid type schizophrenia, unspecified"
+Screening for malignant neoplasms of bladder
+"Malignant histiocytosis, intrathoracic lymph nodes"
+Personal history of malignant neoplasm of breast
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Carcinoma in situ of other and unspecified female genital organs
+Edema
+Persistent disorder of initiating or maintaining sleep
+Dual sensory impairment
+Motor problems with limbs
+Dual sensory impairment
+Benign intracranial hypertension
+"Intermittent heterotropia, unspecified"
+Breast replacement
+Motor problems with limbs
+Dual sensory impairment
+Other preterm infants
+Dual sensory impairment
+"Organ or tissue replaced by other means, heart assist device"
+Open fracture of coronoid process of ulna
+Other behavioral problems
+Other specified peripheral vascular diseases
+"Organ or tissue replaced by other means, heart assist device"
+"Organ or tissue replaced by other means, heart assist device"
+"Other psychological or physical stress, not elsewhere classified"
+"Fracture of upper end of tibia and fibula, open"
+"Organ or tissue replaced by other means, heart assist device"
+"Organ or tissue replaced by other means, heart assist device"
+Accidental poisoning by tranquilizers
+Striking against or struck accidentally by objects or persons
+Congenital obstruction of ureteropelvic junction
+Hormones and synthetic substitutes causing adverse effects in therapeutic use
+Breast replacement
+"Other anomalies of larynx, trachea, and bronchus"
+"Other anomalies of larynx, trachea, and bronchus"
+Overexertion and strenuous and repetitive movements or loads
+Toxic effect of chlorinated hydrocarbons
+Cervical spondylosis with myelopathy
+Striking against or struck accidentally by objects or persons
+Other organ or tissue replaced by other means
+Lack of expected normal physiological development in childhood
+Person awaiting admission to adequate facility elsewhere
+Routine general medical examination at a health care facility
+"Other anomalies of larynx, trachea, and bronchus"
+Cervical rib
+Failure in dosage
+Acquired deformity of pelvis
+Motor problems with limbs
+Dual sensory impairment
+"Organ or tissue replaced by other means, heart assist device"
+Open fracture of coronoid process of ulna
+Open fracture of coronoid process of ulna
+"Closed fracture of shaft of radius or ulna, unspecified"
+Encounter for removal of sutures
+Encounter for removal of sutures
+Attention to dressings and sutures
+Disruption of wound
+Mechanical complication due to intrauterine contraceptive device
+Heart replaced by other means
+Heart replaced by other means
+Breast replacement
+"Other tear of cartilage or meniscus of knee, current"
+"Organ or tissue replaced by other means, heart assist device"
+"Organ or tissue replaced by other means, heart assist device"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Sprain of neck
+"Open fracture of trochanteric section of neck of femur, unspecified"
+"Twin, mate stillborn, born in hospital"
+Closed fracture of upper end of tibia alone
+Colostomy status
+Breast replacement
+Person awaiting admission to adequate facility elsewhere
+Sprain of sacrotuberous (ligament)
+"Open dislocation, cervical vertebra"
+"Open dislocation of elbow, unspecified"
+Colostomy status
+"Closed dislocation of interphalangeal (joint), hand"
+"Organ or tissue replaced by other means, fully implantable artificial heart"
+Colostomy status
+Breast replacement
+"Other tear of cartilage or meniscus of knee, current"
+Breast replacement
+Acquired deformity of neck
+Breast replacement
+"Organ or tissue replaced by other means, heart assist device"
+"Organ or tissue replaced by other means, heart assist device"
+Motor problems with limbs
+"Injury to duodenum, without open wound into cavity"
+Failure in dosage
+"Injury to transverse colon, without mention of open wound into cavity"
+Breast replacement
+Nonunion of fracture
+"Abdominal aneurysm, ruptured"
+Compensatory emphysema
+"Outcome of delivery, twins, one liveborn and one stillborn"
+Chronic obstructive asthma with status asthmaticus
+Influenza with pneumonia
+Heart replaced by other means
+Nontraumatic extradural hemorrhage
+"Abdominal aneurysm, ruptured"
+"Late effects of cerebrovascular disease, hemiplegia affecting nondominant side"
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Atrial fibrillation
+Pulmonary arteriovenous malformation
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"
+Supervision of high-risk pregnancy with elderly primigravida
+Ulcer of esophagus
+Screening examination for measles
+Pectus excavatum
+Atrial fibrillation
+Benign essential hypertension
+Encounter for long-term (current) drug use
+Retinal dystrophy in other systemic disorders and syndromes
+Retinal exudates and deposits
+Special screening examination for other specified viral diseases
+"Disorders of impulse control, not elsewhere classified"
+Other aftercare following surgery
+Descemetocele
+"Intermittent heterotropia, unspecified"
+"Open wound of gum (alveolar process), without mention of complication"
+Other specified organ or tissue replaced by transplant
+Exophoria
+Monocular exotropia with A pattern
+"Disorders of impulse control, not elsewhere classified"
+Breast replacement
+Striking against or struck accidentally by objects or persons
+"Organ or tissue replaced by other means, heart assist device"
+Routine infant or child health check
+Other organ or tissue replaced by other means
+"Pain in joint, multiple sites"
+"Pain in joint, site unspecified"
+"Schmorl's nodes, unspecified region"
+"Schmorl's nodes, unspecified region"
+Contact with or exposure to poliomyelitis
+Suicidal ideation
+Chondromalacia
+Edema
+Other specific muscle disorders
+Acquired deformity of neck
+Nonunion of fracture
+Hormones and synthetic substitutes causing adverse effects in therapeutic use
+"Falling from high place, undetermined whether accidentally or purposely inflicted"
+"Pain in joint, multiple sites"
+Nonunion of fracture
+Chondromalacia
+Nonunion of fracture
+"Arthropathy associated with other infectious and parasitic diseases, upper arm"
+Edema
+Ovarian pregnancy
+"Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, antepartum condition or complication"
+"Other anomalies of larynx, trachea, and bronchus"
+"Salpingitis and oophoritis not specified as acute, subacute, or chronic"
+"Drug dependence complicating pregnancy, childbirth, or the puerperium"
+"Previous cesarean delivery, delivered, with or without mention of antepartum condition"
+Screening for malignant neoplasms of cervix
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition"
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition"
+"Hemoptysis, unspecified"
+Disruption of obstetrical perineal wound
+"Other venereal diseases of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition"
+"Shock, unspecified"
+Personal history of malignant neoplasm of breast
+"Tuberculosis of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with mention of postpartum complication"
+Personal history of malignant neoplasm
+"Acute poliomyelitis with other paralysis, poliovirus, unspecified type"

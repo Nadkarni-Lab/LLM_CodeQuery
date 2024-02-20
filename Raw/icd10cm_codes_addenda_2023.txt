@@ -1,0 +1,52 @@
+Add:         T74A1XA Adult financial abuse, confirmed, initial encounter
+Add:         T74A1XD Adult financial abuse, confirmed, subsequent encounter
+Add:         T74A1XS Adult financial abuse, confirmed, sequela
+Add:         T74A2XA Child financial abuse, confirmed, initial encounter
+Add:         T74A2XD Child financial abuse, confirmed, subsequent encounter
+Add:         T74A2XS Child financial abuse, confirmed, sequela
+Add:         T76A1XA Adult financial abuse, suspected, initial encounter
+Add:         T76A1XD Adult financial abuse, suspected, subsequent encounter
+Add:         T76A1XS Adult financial abuse, suspected, sequela
+Add:         T76A2XA Child financial abuse, suspected, initial encounter
+Add:         T76A2XD Child financial abuse, suspected, subsequent encounter
+Add:         T76A2XS Child financial abuse, suspected, sequela
+Delete:      Y0701   Husband, perpetrator of maltreatment and neglect
+Add:         Y07010  Husband, current, perpetrator of maltreatment and neglect
+Add:         Y07011  Husband, former, perpetrator of maltreatment and neglect
+Delete:      Y0702   Wife, perpetrator of maltreatment and neglect
+Add:         Y07020  Wife, current, perpetrator of maltreatment and neglect
+Add:         Y07021  Wife, former, perpetrator of maltreatment and neglect
+Delete:      Y0703   Male partner, perpetrator of maltreatment and neglect
+Add:         Y07030  Male partner, current, perpetrator of maltreatment and neglect
+Add:         Y07031  Male partner, former, perpetrator of maltreatment and neglect
+Delete:      Y0704   Female partner, perpetrator of maltreatment and neglect
+Add:         Y07040  Female partner, current, perpetrator of maltreatment and neglect
+Add:         Y07041  Female partner, former, perpetrator of maltreatment and neglect
+Add:         Y07050  Non-binary partner, current, perpetrator of maltreatment and neglect
+Add:         Y07051  Non-binary partner, former, perpetrator of maltreatment and neglect
+Add:         Y0744   Child, perpetrator of maltreatment and neglect
+Add:         Y0745   Grandchild,  perpetrator of maltreatment and neglect
+Add:         Y0746   Grandparent, perpetrator of maltreatment and neglect
+Add:         Y0747   Parental sibling, perpetrator of maltreatment and neglect
+Add:         Y0754   Acquaintance or friend, perpetrator of maltreatment and neglect
+Add:         Z556    Problems related to health literacy
+Add:         Z5881   Basic services unavailable in physical environment
+Add:         Z5889   Other problems related to physical environment
+Delete:      Z591    Inadequate housing
+Add:         Z5910   Inadequate housing, unspecified
+Add:         Z5911   Inadequate housing environmental temperature
+Add:         Z5912   Inadequate housing utilities
+Add:         Z5919   Other inadequate housing
+Revise from: Z5987   Material hardship
+Revise to:   Z5987   Material hardship due to limited financial resources, not elsewhere classified
+Add:         Z62814  Personal history of child financial abuse
+Add:         Z62815  Personal history of intimate partner abuse in childhood
+Delete:      Z9114   Patient's other noncompliance with medication regimen
+Add:         Z91141  Patient's other noncompliance with medication regimen due to financial hardship
+Add:         Z91148  Patient's other noncompliance with medication regimen for other reason
+Delete:      Z9115   Patient's noncompliance with renal dialysis
+Add:         Z91151  Patient's noncompliance with renal dialysis due to financial hardship
+Add:         Z91158  Patient's noncompliance with renal dialysis for other reason
+Add:         Z91413  Personal history of adult financial abuse
+Add:         Z91414  Personal history of adult intimate partner abuse
+

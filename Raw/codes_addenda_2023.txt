@@ -1,0 +1,34 @@
+Add:         02LW0DJ Occlusion of Thoracic Aorta, Descending with Intraluminal Device, Temporary, Open Approach
+Add:         04L00DJ Occlusion of Abdominal Aorta with Intraluminal Device, Temporary, Open Approach
+Add:         0P530Z3 Destruction of Cervical Vertebra using Laser Interstitial Thermal Therapy, Open Approach
+Add:         0P533Z3 Destruction of Cervical Vertebra using Laser Interstitial Thermal Therapy, Percutaneous Approach
+Add:         0P534Z3 Destruction of Cervical Vertebra using Laser Interstitial Thermal Therapy, Percutaneous Endoscopic Approach
+Add:         0P540Z3 Destruction of Thoracic Vertebra using Laser Interstitial Thermal Therapy, Open Approach
+Add:         0P543Z3 Destruction of Thoracic Vertebra using Laser Interstitial Thermal Therapy, Percutaneous Approach
+Add:         0P544Z3 Destruction of Thoracic Vertebra using Laser Interstitial Thermal Therapy, Percutaneous Endoscopic Approach
+Add:         0Q500Z3 Destruction of Lumbar Vertebra using Laser Interstitial Thermal Therapy, Open Approach
+Add:         0Q503Z3 Destruction of Lumbar Vertebra using Laser Interstitial Thermal Therapy, Percutaneous Approach
+Add:         0Q504Z3 Destruction of Lumbar Vertebra using Laser Interstitial Thermal Therapy, Percutaneous Endoscopic Approach
+Add:         0Q510Z3 Destruction of Sacrum using Laser Interstitial Thermal Therapy, Open Approach
+Add:         0Q513Z3 Destruction of Sacrum using Laser Interstitial Thermal Therapy, Percutaneous Approach
+Add:         0Q514Z3 Destruction of Sacrum using Laser Interstitial Thermal Therapy, Percutaneous Endoscopic Approach
+Add:         302A3H0 Transfusion of Autologous Whole Blood into Bone Marrow, Percutaneous Approach
+Add:         302A3H1 Transfusion of Nonautologous Whole Blood into Bone Marrow, Percutaneous Approach
+Add:         302A3J0 Transfusion of Autologous Serum Albumin into Bone Marrow, Percutaneous Approach
+Add:         302A3J1 Transfusion of Nonautologous Serum Albumin into Bone Marrow, Percutaneous Approach
+Add:         302A3K0 Transfusion of Autologous Frozen Plasma into Bone Marrow, Percutaneous Approach
+Add:         302A3K1 Transfusion of Nonautologous Frozen Plasma into Bone Marrow, Percutaneous Approach
+Add:         302A3L0 Transfusion of Autologous Fresh Plasma into Bone Marrow, Percutaneous Approach
+Add:         302A3L1 Transfusion of Nonautologous Fresh Plasma into Bone Marrow, Percutaneous Approach
+Add:         302A3N0 Transfusion of Autologous Red Blood Cells into Bone Marrow, Percutaneous Approach
+Add:         302A3N1 Transfusion of Nonautologous Red Blood Cells into Bone Marrow, Percutaneous Approach
+Add:         302A3P0 Transfusion of Autologous Frozen Red Cells into Bone Marrow, Percutaneous Approach
+Add:         302A3P1 Transfusion of Nonautologous Frozen Red Cells into Bone Marrow, Percutaneous Approach
+Add:         302A3R0 Transfusion of Autologous Platelets into Bone Marrow, Percutaneous Approach
+Add:         302A3R1 Transfusion of Nonautologous Platelets into Bone Marrow, Percutaneous Approach
+Add:         XW013G6 Introduction of REGN-COV2 Monoclonal Antibody into Subcutaneous Tissue, Percutaneous Approach, New Technology Group 6
+Add:         XW0DXK8 Introduction of Sabizabulin into Mouth and Pharynx, External Approach, New Technology Group 8
+Add:         XW0G7K8 Introduction of Sabizabulin into Upper GI, Via Natural or Artificial Opening, New Technology Group 8
+Add:         XW0H7K8 Introduction of Sabizabulin into Lower GI, Via Natural or Artificial Opening, New Technology Group 8
+Add:         XW133J8 Transfusion of Exagamglogene Autotemcel into Peripheral Vein, Percutaneous Approach, New Technology Group 8
+Add:         XW143J8 Transfusion of Exagamglogene Autotemcel into Central Vein, Percutaneous Approach, New Technology Group 8
