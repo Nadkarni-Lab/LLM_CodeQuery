@@ -2,6 +2,7 @@ DO_NOT_PUBLISH/
 OUTPUT/Intermediate
 RAW/
 
+.DS_Store
 .env
 .venv/
 __pycache__/
