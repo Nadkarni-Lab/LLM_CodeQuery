@@ -16,7 +16,7 @@ __pycache__/
 *.csv
 
 # Ignore specific Excel files
-*codes_man_text.xlsx
+*codes_man_test.xlsx
 *codes_man.xlsx
 *codes.xlsx
 *responses.xlsx
