@@ -1,12 +1,21 @@
+# Ignore directories
 DO_NOT_PUBLISH/
-Output/Intermediate
+Output/Intermediate/
 
+# Ignore system files
 .DS_Store
-.env
+
+# Ignore Python environment and cache files
+*.env
 .venv/
 __pycache__/
-.parquet
-.csv
+*.pytest_cache/
+
+# Ignore specific file types
+*.parquet
+*.csv
+
+# Ignore specific Excel files
 *codes_man_text.xlsx
 *codes_man.xlsx
 *codes.xlsx
@@ -14,5 +23,5 @@ __pycache__/
 *responses_man.xlsx
 *responses_man_text.xlsx
 
-*.pytest_cache
-*.vscode
+# Ignore VSCode settings
+.vscode/
