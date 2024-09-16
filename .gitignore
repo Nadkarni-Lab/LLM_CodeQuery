@@ -3,7 +3,7 @@ DO_NOT_PUBLISH/
 Output/Intermediate/
 
 # Ignore system files
-.DS_Store
+*.DS_Store
 
 # Ignore Python environment and cache files
 *.env
