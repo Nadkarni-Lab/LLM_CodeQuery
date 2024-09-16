@@ -1,7 +1,18 @@
 DO_NOT_PUBLISH/
+OUTPUT/Intermediate
+RAW/
+
 .env
 .venv/
 __pycache__/
+.parquet
+.csv
+codes_man_text.xlsx
+codes_man.xlsx
+codes.xlsx
+responses.xlsx
+responses_man.xlsx
+responses_man_text.xlsx
 
 *.pytest_cache
 *.vscode
